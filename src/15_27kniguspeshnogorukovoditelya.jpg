@@ -1,0 +1,1370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="ru" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8" /><title>Читать онлайн «27 книг успешного руководителя», Станислав Логунов – Литрес</title><meta name="description" content="Читать онлайн книгу «27 книг успешного руководителя» автора Станислава Логунова полностью, на сайте или через приложение Литрес: Читай и Слушай. Книга правообладателя Эксмо."><link rel="alternate" hreflang="ru" href="https://www.litres.ru/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="alternate" hreflang="en" href="https://litres.com/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="alternate" hreflang="pl" href="https://litres.pl/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="alternate" hreflang="et" href="https://litres.ee/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="alternate" hreflang="de" href="https://litres.de/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="alternate" hreflang="az" href="https://litres.az/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="alternate" hreflang="x-default" href="https://www.litres.ru/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/"><link rel="stylesheet" href="/static/litres/css/global_variables.css" type="text/css"><link rel="stylesheet" href="/static/litres/css/fonts.css" type="text/css"><link rel="stylesheet" href="/static/wrapper/css/reset.css" type="text/css"><link rel="stylesheet" href="/static/litres/css/style.css?7de9d5" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/read_book_online.css?c28f6f" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/module_country.css" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/biblio_book.css?bf9eef" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/module_pager.css" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/module_lang.css" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/module_recenses.css" type="text/css"><script type="text/javascript">
+			(function(i,r){
+				i[r]=i[r] || function(){
+					(i[r].q=i[r].q||[]).push(arguments)
+				},i[r].l=1*new Date();
+			})(window,'ga');
+			var include = [];
+			var litres = {
+				url_code: {
+					tag_samizdat: "/selfpublishing/",
+					tag_chernovik: "/luchshie-knigi/tag_chernoviki/"
+				},
+				loadCss: function(url) {
+					if (document.querySelector('link[href="' + url + '"]')) {
+						return;
+					}
+					var link = document.createElement("link");
+					link.type = "text/css";
+					link.rel = "stylesheet";
+					link.href = url;
+					document.getElementsByTagName("head")[0].appendChild(link);
+				},
+				loadJs: function (url, callback) {
+					if (document.querySelector('script[src="' + url + '"]')) {
+						if (callback) {
+							callback();
+						}
+						return;
+					}
+					var script = document.createElement('script');
+					script.type = 'text/javascript';
+					script.src = url;
+					if (callback) {
+						script.onload = function () {
+							callback();
+						};
+					}
+					document.body.appendChild(script);
+				},
+				changeSearchPlaceholder: function (id) {
+					// [164717] [WWW, PDA] Верстка вариативности текста в поисковом инпуте
+					var searchInput = document.getElementById(id);
+					if (searchInput) {
+						var inputWidth = searchInput.offsetWidth;
+						var placeholder = 'Книга, серия, автор, жанр, тег, издательство';
+						if (inputWidth <= 250) {
+							placeholder = 'Книга, серия, автор';
+						}
+						if (inputWidth > 250 && inputWidth <= 400) {
+							placeholder = 'Книга, серия, автор, жанр, тег';
+						}
+						searchInput.setAttribute("placeholder", placeholder);
+					}
+				},
+				requireFilter: function(url) {
+					if (!/\?/.test(url) && /\.js$/.test(url)) {
+						url = url.slice(0, -3);
+					}
+					return url;
+				},
+				HostName: 'www.litres.ru',
+				wwwHost: 'https://www.litres.ru',
+				sid: '68cp4k9771cg3sa04hcg570431c3f761',
+				libface: 1,
+				page: {
+					
+						name: 'read_book_online',
+					
+		biblio_book: {
+			art: {
+				isShowDiscount: true,
+				isOpenPopup: true,
+				
+				type: '0',
+				available: 1,
+				id: '23217190',
+				author_id: 10862126,
+				isRead: 'false',
+				adult: '16'
+				,samizdat: true,drm: '0', litresSubscription: true
+			},
+			popup_read: {
+				platform: {
+					ios: {
+						name: 'Apple Store',
+						link: 'https://redirect.appmetrica.yandex.com/serve/172028616387941931?utm_source=web&utm_campaign=book_page_popup&utm_content=ios'
+					},
+					android: {
+						name: 'Google Play',
+						link: 'https://redirect.appmetrica.yandex.com/serve/172028616387941931?utm_source=web&utm_campaign=book_page_popup&utm_content=android'
+					},
+					wp: {
+						name: 'Магазин Windows Phone',
+						link: 'http://www.windowsphone.com/ru-ru/store/app/литрес-читай/a356e0eb-4c3c-4820-bdeb-804811b51e57'
+					}
+				}
+			},
+			url: '/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/',
+			
+			motivation_metric: undefined,
+			recenses: {pager: {pages: 0, page: 0, rows: 20, limit: 0}}
+			
+		}
+		
+				},
+				user: 0,
+				user_name: 'anonym',
+				
+				userCountry: 'RU',
+				userCountrySng: 'true',
+				
+				nickname: '',
+				first_name: '',
+				avatar: {
+					prefix: '/static/users/100/00/00/00/00/00/00/0',
+					ext: ''
+				},
+				profile_privacy: '',
+				name: '',
+				tests: {
+			'test1046': 'control',
+			'test1027': 'control',
+			'test1025': 'test'},
+				platform: 'chrome',
+				atype: '',
+				isEU: false,
+				real_money: '0',
+				spam_tickets: true,
+				money_mod: '',
+				money_bonus: '0.00',
+				
+					abonement_onemonth_price: '399.00',
+					abonement_onemonth_class: 37,
+					abonement_month_price: '399 <span class="currency litres_ruble">₽</span>',
+					isBestShortAbonement: true,
+				
+				showMinigridAbonent: true,
+				mainSaleBanner: false,
+				loaderSpinner: '<div class="progress-bar"><div class="progress-bar__wrapper"><div class="progress-bar__spinner"></div></div></div>',
+				
+				lib_mode: 0,
+				
+				ref_url: encodeURIComponent('/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/'),
+				isNewPaymentBook: true,isNewPaymentBilling: true,isNewPaymentSeries: true,
+				webpush_status: 0,
+				uilang: 'ru',
+				lang: '52',
+				askingPopup:false,
+				onetimePin:true,
+				
+				mailru_id: '1283707'
+				,
+				inBasket: 0,
+				inWishlist: 0, agreement: true
+				,activeSubscr: false
+				,userFolders: 
+		{
+			"isPurchased": false,
+			"isFreebie": false,
+			"notAvailable": false,
+			"inWishlist": false,
+			"inBasket": false,
+			"inArchive": false,
+			"isViewed": true,
+			
+			"folders": [
+				
+		{
+		"artsCount": 0,
+		"artInFolder": "false",
+		"id": "1",
+		"caption": "read",
+		"type": 1
+		},
+	
+			]
+		}
+	
+				,currency: {
+					currency: 'RUB',
+					post: '₽',
+					pre: '',
+					rate: 1.000000
+				}
+				,showTroykaCard: true,safemode_show: true, showBookShelfBonuses: true
+				,comments: true
+				,regionTest: {
+					regionRestriction: '',
+					UserCountry: 'RUS',
+					UserCountry2: 'RU',
+					UserCity: 'St Petersburg',
+					UserRegionName: 'St.-Petersburg'
+				}
+				, makePic: true, Helpdeskeddy: true, zendeskChat: true, SSR_Header: true, applePayStatus: 1, notification: {
+					unreadedCount: 6
+				}, QIWIinPriority: true, subscriptionTrialOff: true, subscriptionClassID: 2, userWithoutRebill: true, lkNotifications: true, seriesNoBasketBuy: true
+			};
+		</script><script type="text/javascript" src="/static/wrapper/js/require.js"></script><script type="text/javascript">
+			requirejs.config({
+				"findNestedDependencies": true,
+				"waitSeconds": 100500,
+				"baseUrl": "/",
+				"paths": {
+					"GUAjax": litres.requireFilter("/static/gu_ajax/gu_ajax.js"),
+					"pubsub": litres.requireFilter('/static/js/pubsub.js'),
+					"jquery": litres.requireFilter("/static/wrapper/js/jquery-1.7.1.min.js"),
+					"onelinkSmartScript": litres.requireFilter("/static/wrapper/js/onelink-smart-script-v2.0.1.js"),
+					"wrapper.functions": litres.requireFilter("/static/wrapper/js/functions.js?bf9eef"),
+					"wrapper.utils": litres.requireFilter("/static/wrapper/js/utils.js"),
+					"CSRF": litres.requireFilter("/static/hub/js/csrf.js"),
+					"i18ndata": litres.requireFilter("/static/js/i18n/ru/default.js?40d949"),
+					"i18n": litres.requireFilter("/static/js/i18n/gettext.js"),
+					"domReady": litres.requireFilter("/static/wrapper/js/require.domready.js"),
+					"alert": litres.requireFilter("/static/litres/modules/alert/js/alert.js"),
+					"iframe-authorize": litres.requireFilter("/static/litres/js/p/iframe-authorize.js"),
+					"customEventPolyfill": litres.requireFilter('/static/js/customEventPolyfill.js'),
+					"jquery.migrate": litres.requireFilter("/static/wrapper/js/jquery-migrate-1.2.1.min.js"),
+					"dotdotdot": litres.requireFilter("/static/litres/js/jquery/dotdotdot/jquery.dotdotdot.min.js"),
+					"moment": litres.requireFilter("/static/litres/js/jquery/moment/moment.min.js"),
+					"moment-with-locales": litres.requireFilter("/static/litres/js/jquery/moment/moment-with-locales.min.js"),
+					"countdown": litres.requireFilter("/static/litres/js/jquery/countdown/jquery.countdown.js"),
+					"scrollbar": litres.requireFilter("/static/litres/modules/scrollbar/js/scrollbar.js"),
+					"overlay": litres.requireFilter("/static/litres/js/jquery/overlay/overlay.js"),
+					"inputmask.dependencyLib": litres.requireFilter("/static/jquery_plugs/inputmask/inputmask.dependencyLib.jquery.js"),
+					"inputmask": litres.requireFilter("/static/jquery_plugs/inputmask/inputmask.min.js"),
+					"jquery.inputmask": litres.requireFilter("/static/jquery_plugs/inputmask/jquery.inputmask.min.js"),
+					"jquery-ui": litres.requireFilter("/static/litres/modules/audioplayer-main/js/jquery-ui.min.js"),
+					
+					"datepicker": litres.requireFilter("/static/jquery_plugs/jquery.datepicker.min.js"),
+					"paypal": "/static/ds/paypal/checkout.min",
+					"jquery.mask": litres.requireFilter("/static/jquery_plugs/jquery.mask.js"),
+					"jquery.zclip": litres.requireFilter("/static/js/hub/jquery.zclip.min.js"),
+					"cusel": litres.requireFilter("/static/litres/js/jquery/cusel/cusel-min-2.5.js"),
+					
+					"code": litres.requireFilter("/static/litres/js/code.js?9ed4e7"),
+					"header": litres.requireFilter("/static/litres/js/header.js?2db95e"),
+					"search": litres.requireFilter("/static/litres/js/search.js?e4ff17b"),
+					"seo": litres.requireFilter("/static/litres/js/seo.js"),
+					"trash": litres.requireFilter("/static/litres/js/trash.js?b81cda"),
+					"sociallogin": litres.requireFilter("/static/litres/js/sociallogin.js?7ae4d2"),
+					"ecommerce": litres.requireFilter("/static/litres/js/ecommerce.js?37ddad"),
+					"jplayer": litres.requireFilter("/static/new/jplayer/jquery.jplayer.min.js"),
+					"jplayer.playlist": litres.requireFilter("/static/new/jplayer/jplayer.playlist.min.js"),
+					"jplayer.inspector": litres.requireFilter("/static/new/jplayer/jquery.jplayer.inspector.js"),
+					"webpush": litres.requireFilter("/static/js/webpush.js"),
+					"login": litres.requireFilter("/static/litres/modules/login/js/login.js"),
+					"authorization": litres.requireFilter("/static/litres/modules/authorization/js/Login.js"),
+					"login_popup": litres.requireFilter("/static/litres/modules/authorization/js/LoginPopup.js?72ec86"),
+					"login_landing": litres.requireFilter("/static/litres/modules/authorization/js/LoginLanding.js"),
+					"login_popup_tools": litres.requireFilter("/static/litres/modules/authorization/js/LoginPopupTools.js"),
+					"books_autoload": litres.requireFilter("/static/litres/js/p/books_autoload.js"),
+					
+					"arts-mini": litres.requireFilter("/static/litres/modules/arts/mini2/js/arts-mini.js"),
+					"payment": litres.requireFilter("/static/litres/js/payment.js?bf9eef"),
+					"qrcode": litres.requireFilter("/static/js/qrcode.min.js"),
+					"audioplayer": litres.requireFilter("/static/litres/modules/audioplayer/js/audioplayer.js"),
+					"phonecodes": litres.requireFilter("/static/litres/modules/phonecodes/js/phonecodes.js?f78698"),
+					"no-cover": litres.requireFilter("/static/litres/modules/no-cover/js/no-cover.js?a92437"),
+					"art-buttons": litres.requireFilter("/static/litres/modules/arts/buttons/js/arts-buttons.js?607676"),
+					"rec-buttons": litres.requireFilter("/static/litres/modules/recenses/js/rec-buttons.js"),
+					"spam-tickets": litres.requireFilter("/static/litres/modules/spam-tickets/js/spam-tickets.js?b928c6"),
+					"vk": "//vk.com/js/api/openapi",
+					"sha256": litres.requireFilter("/static/litres/modules/catalit-web/libs/sha256/sha256.js"),
+					"subscr-auth": litres.requireFilter("/static/litres/modules/authorization/js/SubscrAuth.js"),
+					
+					"catalitweb.dataprovider": litres.requireFilter("/static/litres/modules/catalit-web/DataProvider/DataProvider.js"),
+					"catalitweb": litres.requireFilter("/static/litres/modules/catalit-web/CatalitWeb/CatalitWeb.js"),
+					"catalitweb.audionotes": litres.requireFilter("/static/litres/modules/catalit-audionotes/CatalitAudionotes/CatalitAudionotes.js?6e4fe8"),
+					"catalitweb.audionoteshandler": litres.requireFilter("/static/litres/modules/catalit-audionotes/audionotes-handler.js"),
+					"litresRatingPopupMaterial": litres.requireFilter("/static/litres/modules/arts/cover-material/js/popup_rating_material.js?583b67"),
+					"litresTooltipPopupMaterial": litres.requireFilter("/static/litres/modules/arts/cover-material/js/popup_tooltip_material.js"),
+					"mgrid": litres.requireFilter("/static/litres/modules/mgrid/js/mgrid.js"),
+					"litresFoldersPopup": litres.requireFilter("/static/litres/modules/arts/popup-folders/js/popup-folders.js?3c4b66"),
+					"popup-merge-users": litres.requireFilter("/static/litres/modules/popup-merge-users/js/popup-merge-users.js"),
+					"animejs": litres.requireFilter("/static/js/anime.min.js"),
+					"animations": litres.requireFilter("/static/litres/modules/animations/animations.js"),
+					"clipboard": litres.requireFilter("/static/js/clipboard.min.js"),
+					
+					"react-dom": litres.requireFilter('/static/js/react/production/react-dom.production.min.js?60b9f0'),
+					
+					"react": litres.requireFilter('/static/js/react/production/react.production.min.js?60b9f0'),
+					"react-polyfills": litres.requireFilter('/static/js/react/react-polyfills.js'),
+					"SharingPopup": litres.requireFilter('/static/litres/modules/react-sharing-library/SharingPopup.js?60b9f0'),
+					
+							"HeaderLibrary": litres.requireFilter('/static/litres/modules/react-header/HeaderLibrary.min.js?dd418f'),
+							"@litres-core/store": litres.requireFilter('/static/litres/modules/react-litres-store/ReactStore.min.js?5ffb98'),
+							"ReactReceipt": litres.requireFilter('/static/litres/modules/react-receipt/ReactReceipt.min.js?f02142'),
+							"ReactPersonalCabinet": litres.requireFilter('/static/litres/modules/react-personal-cabinet/ReactPersonalCabinet.min.js?89b05a'),
+							"ReactSubscriptionLanding": litres.requireFilter('/static/litres/modules/react-subscription-landing-v2/ReactSubscriptionLanding.min.js?d6c29c'),
+							ReactBuyingOnAppleLanding: litres.requireFilter('/static/litres/modules/react-buying-on-apple-landing/ReactBuyingOnAppleLanding.min.js?3da87c'),
+							"ReactComments": litres.requireFilter('/static/litres/modules/react-comments/ReactComments.min.js?bf9eef'),
+							"@litres-libs/i18n": litres.requireFilter('/static/litres/modules/i18n/i18n.min.js?b81224'),
+						
+					"react-redux": litres.requireFilter('/static/litres/npm/react-redux/dist/react-redux.min.js?60b9f0'),
+					"redux": litres.requireFilter('/static/litres/npm/redux/dist/redux.min.js?60b9f0'),
+					"axios": litres.requireFilter('/static/litres/npm/axios/dist/axios.min.js'),
+					"classnames": litres.requireFilter('/static/litres/npm/classnames/index.js'),
+					
+					"classListPolyfill": litres.requireFilter("/static/js/classListPolyfill.js"),
+					"forEachPolyfill": litres.requireFilter("/static/js/forEachPolyfill.js"),
+					"IntersectionObserverPolyfill": litres.requireFilter("/static/js/IntersectionObserverPolyfill.js"),
+					"MutationObserverPolyfill": litres.requireFilter("/static/js/MutationObserverPolyfill.js"),
+					"removePolyfill": litres.requireFilter("/static/js/removePolyfill.js"),
+					"MGrid_BookLoader": litres.requireFilter("/static/litres/modules/mgrid/js/mgrid-book-loader.js"),
+					"MGrid_AsyncImagesLoadFactory": litres.requireFilter("/static/litres/modules/mgrid/js/AsyncImagesLoadFactory.js?0e1bd5"),
+					"MGrid_Core": litres.requireFilter("/static/litres/modules/mgrid/js/Core.js?1af26e"),
+					"MGrid_Page": litres.requireFilter("/static/litres/modules/mgrid/js/Page.js"),
+					"MGrid_Line": litres.requireFilter("/static/litres/modules/mgrid/js/Line.js"),
+					"MGrid_Art": litres.requireFilter("/static/litres/modules/mgrid/js/Art.js"),
+					"MGrid_Banner": litres.requireFilter("/static/litres/modules/mgrid/js/Banner.js"),
+					'MGrid_LogicArea': litres.requireFilter('/static/litres/modules/mgrid/js/LogicArea.js'),
+					"purchase": litres.requireFilter("/static/litres/modules/arts/purchase/js/index.js"),
+					"AudioElementDecorator": litres.requireFilter("/static/litres/modules/audioplayer-main/js/AudioElementDecorator.js"),
+					"InputSliderDecorator": litres.requireFilter("/static/litres/modules/audioplayer-main/js/InputSliderDecorator.js"),
+					"VolumeController": litres.requireFilter("/static/litres/modules/audioplayer-main/js/VolumeController.js"),
+					"AudioPlayerController": litres.requireFilter("/static/litres/modules/audioplayer-main/js/AudioPlayerController.js?ac32cb"),
+					"AudioPlayerView": litres.requireFilter("/static/litres/modules/audioplayer-view/dest/js/AudioPlayerView.js?60b9f0"),
+					"AudioPlaylistManager": litres.requireFilter('/static/litres/modules/audioplayer-main/js/AudioPlaylistManager.js'),
+					"ReviewTextarea": litres.requireFilter('/static/litres/modules/recenses/js/ReviewTextarea.js'),
+					"ViewedBooksWidget": litres.requireFilter('/static/litres/modules/viewed-books-widget/js/widget.js'),
+					"recenses": litres.requireFilter('/static/litres/js/p/module_recenses.js?66edff'),
+					"quotes": litres.requireFilter('/static/litres/modules/quotes/js/quotes.js'),
+					"likes": litres.requireFilter('/static/litres/modules/likes/js/likes.js'),
+					"truncate-text": litres.requireFilter('/static/js/truncate-text.js'),
+					"TextCopy": litres.requireFilter('/static/or4_obsolete/view/ts/TextCopy.js'),
+					"my-authors": litres.requireFilter('/static/litres/modules/my-authors/js/my-authors.js'),
+					"art_genres_by_users": litres.requireFilter('/static/litres/js/p/art_genres_by_users/art_genres_votes.js'),
+					
+							"helpdeskeddy": litres.requireFilter("/static/litres/modules/helpdeskeddy/js/helpdeskeddy.js?9f9322"),
+						
+					"dropdown": litres.requireFilter('/static/litres/modules/dropdown/js/dropdown.js'),
+					"select_and_buy": litres.requireFilter('/static/litres/modules/select-and-buy/js/select_and_buy.js?cabe53'),
+					"stringAlgorithms": litres.requireFilter('/static/js/stringAlgorithms.js'),
+					"popup-asking-email": litres.requireFilter('/static/litres/modules/popup-asking-email/js/popup-asking-email.js'),
+					"text_input": litres.requireFilter('/static/litres/modules/inputs/js/text_input.js'),
+					"textarea": litres.requireFilter('/static/litres/modules/inputs/js/textarea.js'),
+					"popup": litres.requireFilter('/static/litres/modules/popup/js/popup.js'),
+					"GenresLinkPatcher": litres.requireFilter('/static/litres/modules/sorting/js/GenresLinkPatcher.js'),
+					"PageArtsHandler": litres.requireFilter("/static/litres/modules/art/js/PageArtsHandler.js"),
+					"LightLoader": litres.requireFilter("/static/litres/modules/loaders/js/LightLoader.js?8d9609"),
+					"SlidersBox": litres.requireFilter("/static/litres/modules/loaders/js/SlidersBox.js"),
+					"ColoredLitresLoader": litres.requireFilter("/static/litres/modules/loaders/js/ColoredLitresLoader.js"),
+					"CommonSliders": litres.requireFilter("/static/litres/modules/scrollbar/js/CommonSliders.js?a1e983"),
+					"OtsidManager": litres.requireFilter('/static/litres/modules/otsid/js/OtsidManager.js'),
+					"MyFolderSharing": litres.requireFilter('/static/litres/modules/my-folder-sharing/js/my-folder-sharing.js'),
+					"sharing": litres.requireFilter("/static/litres/modules/sharing/js/sharing.js"),
+					"get_email": litres.requireFilter("/static/litres/modules/authorization/js/GetEmail.js"),
+					"Flocktory": "https://api.flocktory.com/v2/loader.js?site_id=77",
+					"buy_subscr": litres.requireFilter("/static/litres/modules/buy-subscr/js/buy-subscr.js?976c74"),
+					"async-check-status": litres.requireFilter("/static/litres/modules/async-check-status/js/async-check-status.js"),
+					"buttonApplePay": litres.requireFilter('/static/litres/modules/payment-buttons/applePayButton.js'),
+					"checkerApplePay": litres.requireFilter('/static/litres/modules/payment-buttons/applePayGlobalChecker.js'),
+					"vk-superapp-sdk": litres.requireFilter('/static/litres/modules/vk-superapp-sdk/VKSuperAppKitSDK.js'),
+					"fast_buy_popup": litres.requireFilter("/static/wrapper/modules/abonement/js/fast_buy_popup.js?37e823"),
+				},
+				"shim": {
+					"wrapper.functions": {
+						deps: ["GUAjax", "jquery"],
+						init: function() {
+							
+							if (!getCookie('slowline') && Date.now()-userConnectionSpeedTimerStart > 1000) {
+								litres.isSlowConnection = true;
+								setCookie('slowline', 1, 0, '/', 0, 5);
+							} else {
+								litres.isSlowConnection = false;
+							}
+							
+							$(function() {
+								if(CatchClick){$('.clicktag').on('click', CatchClick);}
+							});
+						}
+					},
+					"CSRF": ["jquery"],
+					"i18n": {
+						deps: ["i18ndata"],
+						init: function ($) {
+							litres.i18nGettext = new Gettext({
+								domain: "default",
+								locale_data: json_locale_data
+							});
+							__l = function(msgid, args) {
+								return litres.i18nGettext.strhashargs(
+									litres.i18nGettext.gettext(msgid),
+									args
+								);
+							};
+							__ln = function(msgid, msgid_plural, count, args) {
+								return litres.i18nGettext.strhashargs(
+									litres.i18nGettext.ngettext(msgid, msgid_plural, count),
+									args
+								);
+							};
+
+						}
+					},
+					"i18ndata": {
+						deps: ["wrapper.functions"]
+					},
+					"dotdotdot": ["jquery"],
+					"moment": {
+						deps: ["jquery"]
+					},
+					"countdown": ["jquery"],
+					"overlay": ["jquery"],
+					"inputmask": ["inputmask.dependencyLib"],
+					"jquery.zclip": ["jquery"],
+					"cusel": ["jquery"],
+					"jquery.inputmask": {
+						deps: ["jquery", "inputmask"],
+						exports: "$"
+					},
+					"jquery-ui": ["jquery"],
+					"jquery.mask": ["jquery"],
+					"datepicker": {
+						deps: ["jquery"],
+						exports: "$.fn.datepicker"
+					},
+					"code": ["jquery"],
+					"jquery.migrate": ["jquery"],
+					"jplayer": ["jquery"],
+					"jplayer.playlist": ["jplayer"],
+					"jplayer.inspector": ["jplayer"],
+					"ecommerce": {
+						deps: ["wrapper.functions"]
+					},
+					"webpush": {
+						deps: ["jquery", "wrapper.functions"]
+					},
+					"sociallogin": {
+						deps: ["jquery", "csrf"]
+					},
+					"header": {
+						deps: ["jquery", "i18n", "wrapper.functions"]
+					},
+					"trash": {
+						deps: ["wrapper.functions", "overlay", "csrf"]
+					},
+					"books_autoload": {
+						deps: ["IntersectionObserverPolyfill"]
+					},
+					"MGrid_BookLoader": ['GUAjax'],
+					"arts-mini": ["books_autoload"],
+					"login": {
+						deps: ["jquery", "wrapper.functions", "csrf"]
+					},
+					"qrcode": {
+						deps: ["jquery", "wrapper.functions", "header"]
+					},
+					"no-cover": {
+						deps: ["jquery", "i18n"]
+					},
+					"vk": {
+						exports: "VK"
+					},
+					"paypal": {
+						exports: "paypal"
+					},
+					"catalitweb": {
+						deps: ["catalitweb.dataprovider"]
+					},
+					"catalitweb.audionotes": {
+						deps: ["catalitweb"]
+					},
+					"catalitweb.audionoteshandler": {
+						deps: ["catalitweb.audionotes"]
+					},
+					"animations": {
+						deps: ["animejs"],
+						exports: "animations"
+					},
+					"iframe-authorize": {
+						deps: ["sociallogin", "login","i18n"]
+					},
+					"my-authors": {
+						deps: ["wrapper.functions", "i18n", "books_autoload"]
+					}
+				},
+				wrapShim: true
+			});
+
+			var __l = __ln = function (msgid) {
+				return msgid;
+			};
+
+			define("csrf", ["CSRF", "jquery"], function() {
+				
+				CSRF.init(["849092:1688719302:7f4b5f20438f8ab2e0f2f64060f479240af8637c2750e7b7589acb52c7816a7a","855667:1688719302:bd0b126690aefe9e755f1e9033f5576d5c6a03f72af19985c66be018b5d4877a","368790:1688719302:13a88ce4a77b37fc4f92cbce38b6ceea2327f2751d5035e1539653436495a261","642242:1688719302:69156b9573e02609f233c697b1a12ce49c6b0afba92e8d51abba3c8261e2c356","119046:1688719302:39c399b6bb576f1640f42f444911ed63f47d20de9b6d9568089d3685df6a5ae0","272786:1688719302:da77ccc6686cb46d3a19a2d0efd2921603ee53ec91497f0545653b57b4406235"], 0);
+			});
+
+			
+		define("ym", function () {
+			var yaParams = window.yaParams || {};
+			
+
+			(function (m, e, t, r, i, k, a) {
+				m[i] = m[i] || function () {
+					(m[i].a = m[i].a || []).push(arguments)
+				};
+				m[i].l = 1 * new Date();
+				k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+			})
+			(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+			ym(2199583, "init", {
+				clickmap: true,
+				trackLinks: true,
+				accurateTrackBounce: true,
+				webvisor: litres.uilang == 'ru' ? true : false,
+				trackHash: true,
+				ecommerce: "dataLayer",
+				triggerEvent: true,
+				params: yaParams
+			});
+		});
+
+		window.ymReachGoal = function (eventName, goalParams) {
+			requirejs(['ym'], function () {
+				ym(2199583, 'reachGoal', eventName, goalParams || {});
+			});
+		};
+
+		window.ymVisitParams = function (visitParams) {
+			requirejs(['ym'], function () {
+				ym(2199583, 'params', visitParams || {});
+			});
+		};
+
+		window.ymUserParams = function (parameters) {
+			requirejs(['ym'], function () {
+				ym(2199583, 'userParams', parameters || {});
+			});
+		};
+	
+			define("GTM", ["//www.googletagmanager.com/gtm.js?id=GTM-MF2ZGM6"]);
+			requirejs(["GTM"], function() {
+				window['dataLayer'] = window['dataLayer'] || [];
+				window['dataLayer'].push({
+					'gtm.start': new Date().getTime(),
+					event: 'gtm.js',
+					'user_floodlight_id': '',
+					'has_bucket': ''
+				});
+			});
+		
+		define("gtag", function () {
+			window.dataLayer = window.dataLayer || [];
+			gtag = function () {
+				dataLayer.push(arguments);
+			};
+			gtag("js", new Date());
+			gtag("config", "AW-962806630");
+		});
+	
+		requirejs(["wrapper.utils"], function(Utils) {
+			window.Utils = Utils;
+		});
+	
+			var userConnectionSpeedTimerStart = Date.now();
+
+			function LoadPhonecodesCss() {
+				litres.loadCss("/static/litres/modules/phonecodes/css/phonecodes.css");
+				litres.loadCss("/static/litres/css/p/module_country.css");
+			}
+
+			
+		define("react-store", ["react-redux", "@litres-core/store", "@litres-libs/i18n"], function (redux, ReactStore, i18nModule) {
+			var provider = redux.Provider;
+			var api = ReactStore.api;
+      var i18n = i18nModule.i18n;
+			if (!window.litresStore) {
+				window.litresStore = ReactStore.makeStore("Litres store");
+			}
+			var store = window.litresStore;
+			var dispatch = store.dispatch;
+			var sidMatch = /SID=([^;]+)/.exec(document.cookie);
+			var SID = sidMatch && sidMatch[1] ? sidMatch[1] : "";
+			var state = {
+				serverProps: {}
+			}
+
+			dispatch(api.face.setFaceLang("ru"));
+			document.cookie="Ui-Language-Code=ru; path=/";
+
+			dispatch(
+				api.foundationUser.setFoundationUserProfile({
+					phone_number: "",
+					email: "",
+					first_name: "",
+					last_name: "",
+					middle_name: null,
+					nickname: "",
+					has_folder_arts: true,
+					birthday: undefined,
+					
+					is_phone_confirmed: false,
+					description: undefined,
+
+		
+				})
+			);
+
+			dispatch(
+				api.foundationUser.setFoundationReaderPartner({
+					is_reader_partner: false,
+				})
+			);
+
+			dispatch(
+				api.foundationUser.setFoundationIsUserReferral({
+					is_user_referral: false,
+				})
+			);
+
+			dispatch(
+				api.foundationUser.setUserSID({
+					SID: SID,
+				})
+			);
+
+			dispatch(api.foundationUser.getABTests({
+				SID: SID,
+			}));
+
+			dispatch(
+				api.foundationUser.setUserID({
+					id: 0,
+				})
+			);
+
+			dispatch(
+				api.foundationUser.setFoundationUserLogin({
+					login: "anonym"
+				})
+			);
+
+			dispatch(
+				api.user.credentials.setUserCredentials({
+					
+					isAnon: true,
+					userID: 0,
+					userSID: SID,
+					name: "anonym",
+					nickname: "",
+					firstName: "",
+					lastName: "",
+					middleName: null,
+					email: "",
+					isAsking: false,
+					phoneNumber: "",
+					hasFolderArts: true,
+					isReaderPartner: false,
+					isUserReferral: false,
+					isPhoneConfirmed: false,
+					isPasswordNull: false,
+					birthDate: undefined,
+					description: undefined,
+					
+				})
+			);
+
+			
+
+				dispatch(
+					api.foundationUser.setFoundationUserBalance({
+
+						real: 0.00,
+						bonus: 0,
+						full: 0.00,
+						max_bonus_spend_coefficient: 0,
+						
+					})
+				);
+
+				dispatch(
+					api.user.balance.setUserBalance({
+						account: 0.00,
+						bonus: 0,
+						accountFull: 0.00,
+						maxBonusSpendCoeff: 0,
+						
+					})
+				);
+
+				dispatch(
+					api.user.notifications.setUserNotifications({
+						allCount: 1,
+						list: []
+					})
+				);
+
+				dispatch(
+					api.foundationUser.setBasketData({
+						items_count: 0,
+						deferred_count: 0,
+						purchased_count: 0
+					})
+				);
+
+				dispatch(
+					api.user.basket.setUserBasket({
+						inBasket: 0,
+						inDeferred: 0,
+						purchased: 0
+					})
+				);
+			
+
+			dispatch(
+				api.foundationUser.setFoundationUserLibrary({
+					is_librarian: false,
+					is_library_user: false,
+					is_library_domain: false,
+					is_school_domain: false,
+					
+				})
+			);
+
+			dispatch(
+				api.user.library.setUserLibrary({
+					isLibrarian: false,
+					isLibUserNoBuy: false,
+					isLibUser: false,
+					isLibrary: false,
+					isSchool: false,
+					libhouseGroup: 0,
+					
+				})
+			);
+
+			
+
+			// Слонораздачи
+			dispatch(
+				api.foundationUser.setFoundationUserBoughtCollection([
+					
+				])
+			);
+
+			dispatch(
+				api.user.boughtCollections.setUserBoughtCollection({
+					collections: []
+				})
+			);
+
+			// Абонемент
+			dispatch(
+				api.foundationUser.setFoundationUserAbonement({
+					is_active: false,
+					price: "399",
+					
+							default_abonement_month_price: '399 <span class="currency litres_ruble">₽</span>',
+						
+				})
+			);
+
+			dispatch(
+				api.user.abonement.setUserAbonement({
+					active: false,
+					price: "399",
+					
+							abonementMonthPrice: '399 <span class="currency litres_ruble">₽</span>',
+							isBestShortAbonement: false,
+						
+				})
+			);
+
+			
+
+
+			var subscriptions = [
+				{partner:'megafon',is_active: false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'rostelecom',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'yota',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'aonebel',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'kcell',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'inlab',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'tinkoff',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'lifebel',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				// check next operators:
+				{partner:'azercell',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'beelineru',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'tele2rus',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'tele2kz',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'sberprimekz',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+				{partner:'megafonplus_premium',is_active:false,'valid_till':Number(''),
+					host: 'www.litres.ru'},
+			];
+
+			// Партнерские подписки
+			dispatch(api.foundationUser.setFoundationUserPartnersSubscriptions({
+				has_active: false,
+				subscriptions:subscriptions.filter(function (item) {
+					return item.is_active
+				})
+			}));
+
+			dispatch(api.user.partnersSubscriptions.setUserPartnersSubscriptions({
+				isAnyPartnerSubscriptionActive: false,
+				isMegafonSubscriptionActive: false,
+				isRostelecomSubscriptionActive: false,
+				isYotaSubscriptionActive: false,
+				isA1SubscriptionActive: false,
+				isKCellSubscriptionActive: false,
+				isInlabSubscriptionActive: false,
+				isTinkoffSubscriptionActive: false,
+				isLifebelSubscriptionActive: false
+			}));
+
+			// Подписка
+			dispatch(
+				api.foundationUser.setFoundationUserSubscription({
+					subscriptionClass: [
+						
+		{
+			id: 2,
+			trial: false,
+			month: 1,
+			price: '0',
+			pricePerMonth: '0.000000',
+			basePrice: '399'
+			, promoPrice: '0'
+			, promoCounter: 1
+		}
+					],
+					is_active: false,
+					trial_off: true
+				})
+			);
+
+			dispatch(
+				api.user.subscription.setUserSubscription({
+					subscriptionClass: [
+						
+		{
+			id: 2,
+			trial: false,
+			month: 1,
+			price: '0',
+			pricePerMonth: '0.000000',
+			basePrice: '399'
+			, promoPrice: '0'
+			, promoCounter: 1
+		}
+					],
+					active: false,
+					trialOff: true
+				})
+			);
+
+
+			// Аватар
+			dispatch(
+				api.user.avatar.setUserAvatar({
+					availability: false
+				})
+			);
+
+			dispatch(
+				api.foundationUser.setFoundationUserAvatar(
+					''
+				)
+			);
+
+			dispatch(
+				api.global.header.banners.setSubscrBanner({
+					isActive: true
+				})
+			);
+			dispatch(
+				api.global.header.banners.setOnlyLitresBanner({
+					isActive: false
+				})
+			);
+			dispatch(
+				api.global.header.banners.setPromotionBanner({
+					isActive: false
+				})
+			);
+			dispatch(
+				api.global.header.banners.setAudioSubscrBanner({
+					isActive: false
+				})
+			);
+			dispatch(
+				api.global.header.banners.setTvCampaignBanner({
+					isActive: false
+				})
+			);
+
+			// Устанавилваем параметры экрана
+			dispatch(
+				api.browser.setBrowserParams({
+					screen: {
+						width: 1280,
+						height: 1024
+					},
+					urlParams: {
+						
+			'art': '23217190'
+					}
+					
+				})
+			);
+
+			
+			dispatch(
+				api.global.login.setStrategy("email")
+			);
+
+			dispatch(
+				api.global.search.setSearchData({
+					result: []
+				})
+			);
+
+			dispatch(
+				api.foundationUser.setFoundationUserABTests([
+					{'id': '1046', 'group': 'control'},{'id': '1027', 'group': 'control'},{'id': '1025', 'group': 'test'}
+				])
+			);
+
+			dispatch(
+				api.user.tests.setUserABTests({
+					
+			'test1046': 'control',
+			'test1027': 'control',
+			'test1025': 'test'
+				})
+			);
+
+      dispatch(api.browser.setHeader(["client-host", "www.litres.ru"]));
+
+			
+				dispatch(api.browser.setHeader(["Session-Id", SID]));
+			
+
+			return {
+				store: store,
+				api: api,
+				provider: provider
+			}
+		});
+	</script><link type="image/svg+xml" href="/static/litres/favicon.svg" rel="shortcut icon"><link href="https://www.litres.ru/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/" rel="canonical"><link rel="stylesheet" href="/static/litres/css/header.css?8279f4" type="text/css"><link rel="stylesheet" href="/static/litres/modules/footer/css/footer.css?1ac8ec" type="text/css"><link rel="stylesheet" href="/static/litres/css/popup_read.css" type="text/css"><link rel="stylesheet" href="/static/litres/css/p/module_recenses.css" type="text/css"><link rel="stylesheet" href="/static/litres/modules/react-comments/css/main.css?bf9eef" type="text/css"><meta name="yandex-verification" content="478d5f36769e8054"><meta property="fb:page_id" content="128688247186385"><link rel="apple-touch-icon" href="/static/litres/i/social/seo/icon_114x114.png"><meta content="ru" http-equiv="content-language"><link rel="yandex-tableau-widget" href="/static/litres/inc/seo/yandex-tableau-manifest.json"><link rel="manifest" href="/static/manifest.json"><link rel="stylesheet" href="/static/litres/modules/spam-tickets/css/spam-tickets.css?81579f" type="text/css"><link rel="stylesheet" href="/static/litres/modules/react-header/css/main.css?5ffb98" type="text/css"><link rel="stylesheet" href="/static/wrapper/modules/art/art-standart/css/art-standart.css?1af26e" type="text/css"><link rel="stylesheet" href="/static/wrapper/modules/art/art-cover-material/css/art-cover-material.css?870883" type="text/css"><script type="text/javascript" src="/static/wrapper/modules/art/art-cover-material/js/art-cover-material.js?607676"></script><link rel="stylesheet" href="/static/wrapper/modules/art/art-buttons/css/art-buttons.css?870883" type="text/css"><script>requirejs(['art-buttons']);</script><link rel="stylesheet" href="/static/wrapper/modules/art/art-label/css/art-label.css?870883" type="text/css"><link rel="stylesheet" href="/static/wrapper/modules/art/art-rating/css/art-rating.css?870883" type="text/css"><link rel="stylesheet" href="/static/wrapper/modules/art/art-lang/css/art-lang.css?870883" type="text/css"><meta name="facebook-domain-verification" content="qcs189dptg4zyh2uxen0owmmc92xu8"></head><body class="read_book_online test1025 www"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MF2ZGM6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div class="page-wrap page-wrap-with_new_header page-wrap-with_ssr-header page-wrap-with_abonent_banner" id="page-wrap"><div class="litres_header" id="litres_header"><header class="HeaderDesktop-module__wrapper"><div class="Banners-module__wrapper Banners-module__subscriptionBanner"><a href="/abonement/" class="Banners-module__bannerMain"><span class="Banners-module__logo"></span><span class="Banners-module__textGroup"><p class="Banners-module__text">3 книги в месяц </p><span class="Banners-module__sum">от 399 <span class="currency litres_ruble">₽</span></span></span><span class="Banners-module__procentage"><span class="Banners-module__procentageText">экономия</span>от  <span class="Banners-module__procentagePrice">50%</span></span></a></div><div class="HeaderDesktop-module__mainSection"><a href="/" class="Logo-module__wrapper Logo-module__noPointerWrapper"><svg class="Logo-module__litresLogo" width="173" height="28" viewBox="0 0 173 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M131.485 22.1761C134.619 22.1761 137.118 21.6719 139.556 20.5695V16.0103C139.556 15.9206 139.462 15.8651 139.38 15.9078C136.856 17.2281 134.546 17.8007 131.485 17.8007C127.78 17.8007 125.883 16.036 125.883 12.6348C125.883 9.2336 127.785 7.46891 131.485 7.46891C134.55 7.46891 136.856 8.04147 139.38 9.36178C139.462 9.40451 139.556 9.34896 139.556 9.25923V4.7001C137.118 3.5977 134.619 3.09351 131.485 3.09351C124.775 3.09351 120.916 6.55879 120.916 12.6391C120.916 18.7193 124.775 22.1846 131.485 22.1846V22.1761Z" fill="#FF5500"></path><path d="M118.662 12.9423C118.662 6.10574 114.455 3.11475 108.406 3.11475C101.825 3.11475 97.8369 6.70394 97.8369 12.5663C97.8369 19.7831 102.332 22.1759 108.853 22.1759C112.811 22.1759 115.945 21.5436 118.095 20.6975V16.3264C118.095 16.2367 118.001 16.1811 117.924 16.2196C116.365 16.993 112.819 17.9245 108.917 17.9245C105.491 17.9245 103.332 16.8178 102.851 14.1131H118.405C118.503 14.1131 118.585 14.0404 118.602 13.9464C118.649 13.6174 118.671 13.2713 118.671 12.9466L118.662 12.9423ZM108.406 7.20814C111.471 7.20814 113.163 8.57545 113.79 10.5794H102.937C103.469 8.41736 105.122 7.20814 108.402 7.20814" fill="#FF5500"></path><path d="M86.5933 3.08081C83.2877 3.08081 81.0339 4.36694 79.6301 6.27263C79.5958 6.31963 79.5185 6.29827 79.5185 6.23845L79.4412 3.58501H74.7275V28.0001H79.57V19.0698C79.57 19.01 79.643 18.9844 79.6816 19.0356C81.0854 20.9114 83.3264 22.1762 86.5976 22.1762C92.1999 22.1762 95.6815 18.1768 95.6815 12.6306C95.6815 7.08448 92.1999 3.08508 86.5976 3.08508M85.1423 17.7965C81.8796 17.7965 79.57 15.7498 79.57 12.6306C79.57 9.51146 81.8796 7.46476 85.1423 7.46476C88.6539 7.46476 90.5858 9.44736 90.5858 12.6306C90.5858 15.8139 88.6539 17.7965 85.1423 17.7965Z" fill="#FF5500"></path><path d="M59.3073 21.7017H64.1497V7.96879H72.2506V3.58911H51.2021V7.96879H59.3073V21.7017Z" fill="#0A1E78"></path><path d="M33.6606 13.626V3.58484H28.7881V21.9923C28.7881 22.2529 29.0843 22.4025 29.2947 22.2487L43.9165 11.6434V21.7017H48.789V3.29428C48.789 3.03364 48.4928 2.88409 48.2825 3.03791L33.6606 13.6218V13.626Z" fill="#0A1E78"></path><path d="M2.34396 21.9197C0.991676 21.9197 0 21.8599 0 21.8599V17.5059H0.785613C1.70002 17.5059 2.39118 17.288 2.84624 16.8521C3.30559 16.4163 3.64473 15.707 3.86367 14.72C4.08261 13.7372 4.25433 12.2588 4.37883 10.289C4.4604 8.90035 4.54626 6.6742 4.62782 3.60629C4.64929 2.65344 4.67934 1.4485 4.72227 0H24.2553V21.7018H18.8805V4.16603H9.74933C9.72787 4.45659 9.67635 5.60598 9.59479 7.6185C9.55186 9.02854 9.51322 9.92157 9.47029 10.2933C9.2814 13.3014 8.98948 15.6002 8.59453 17.194C8.19957 18.792 7.52128 19.9756 6.56395 20.7532C5.60662 21.5309 4.19852 21.9197 2.34825 21.9197H2.34396Z" fill="#0A1E78"></path><path d="M150.473 3.57202C150.336 3.57202 150.297 3.65748 150.396 3.75148C150.928 4.28559 151.263 5.02052 151.263 5.83236C151.263 6.6442 150.933 7.37914 150.4 7.90897C150.297 8.01152 150.332 8.0927 150.525 8.0927H161.966C162.614 7.55432 163.03 6.73821 163.03 5.82809C163.03 4.91797 162.614 4.10613 161.966 3.56348H150.478L150.473 3.57202Z" fill="#0A1E78"></path><path d="M150.473 10.3748C150.336 10.3748 150.297 10.4602 150.396 10.5542C150.928 11.0883 151.263 11.8233 151.263 12.6351C151.263 13.4469 150.933 14.1819 150.4 14.7117C150.297 14.8143 150.332 14.8954 150.525 14.8954H157.505C158.153 14.3571 158.57 13.5409 158.57 12.6308C158.57 11.7207 158.153 10.9089 157.505 10.3662H150.478L150.473 10.3748Z" fill="#0A1E78"></path><path d="M150.473 17.1766C150.327 17.1766 150.292 17.2578 150.4 17.3604C150.932 17.8945 151.263 18.6251 151.263 19.4412C151.263 20.2574 150.932 20.988 150.4 21.5179C150.297 21.6204 150.331 21.7016 150.524 21.7016H153.048C153.697 21.1632 154.113 20.3471 154.113 19.437C154.113 18.5269 153.697 17.715 153.048 17.1724H150.477L150.473 17.1766Z" fill="#0A1E78"></path><path d="M171.173 3.57227H168.104C168.752 4.11492 169.168 4.92249 169.168 5.83688C169.168 6.75127 168.752 7.55884 168.104 8.10149H171.173C171.821 7.56311 172.238 6.75127 172.238 5.83688C172.238 4.92249 171.821 4.11492 171.173 3.57227Z" fill="#FF5500"></path><path d="M168.1 3.57227H165.03C165.679 4.11492 166.095 4.92249 166.095 5.83688C166.095 6.75127 165.679 7.55884 165.03 8.10149H168.1C168.748 7.56311 169.164 6.75127 169.164 5.83688C169.164 4.92249 168.748 4.11492 168.1 3.57227Z" fill="#6262D9"></path><path d="M171.173 10.3745H163.644C164.292 10.9172 164.708 11.7247 164.708 12.6391C164.708 13.5535 164.292 14.3611 163.644 14.9037H171.173C171.822 14.3654 172.238 13.5535 172.238 12.6391C172.238 11.7247 171.822 10.9172 171.173 10.3745Z" fill="#FF5500"></path><path d="M163.644 10.3745H160.574C161.222 10.9172 161.639 11.7247 161.639 12.6391C161.639 13.5535 161.222 14.3611 160.574 14.9037H163.644C164.292 14.3654 164.708 13.5535 164.708 12.6391C164.708 11.7247 164.292 10.9172 163.644 10.3745Z" fill="#6262D9"></path><path d="M165.03 3.57227H161.961C162.609 4.11492 163.026 4.92249 163.026 5.83688C163.026 6.75127 162.609 7.55884 161.961 8.10149H165.03C165.679 7.56311 166.095 6.75127 166.095 5.83688C166.095 4.92249 165.679 4.11492 165.03 3.57227Z" fill="#3D3DC7"></path><path d="M160.57 10.3745H157.501C158.149 10.9172 158.566 11.7247 158.566 12.6391C158.566 13.5535 158.149 14.3611 157.501 14.9037H160.57C161.219 14.3654 161.635 13.5535 161.635 12.6391C161.635 11.7247 161.219 10.9172 160.57 10.3745Z" fill="#3D3DC7"></path><path d="M171.173 17.1768H159.188C159.836 17.7194 160.252 18.527 160.252 19.4414C160.252 20.3558 159.836 21.1633 159.188 21.706H171.173C171.822 21.1676 172.238 20.3558 172.238 19.4414C172.238 18.527 171.822 17.7194 171.173 17.1768Z" fill="#FF5500"></path><path d="M159.184 17.1768H156.114C156.762 17.7194 157.179 18.527 157.179 19.4414C157.179 20.3558 156.762 21.1633 156.114 21.706H159.184C159.832 21.1676 160.248 20.3558 160.248 19.4414C160.248 18.527 159.832 17.7194 159.184 17.1768Z" fill="#6262D9"></path><path d="M156.114 17.1768H153.045C153.693 17.7194 154.11 18.527 154.11 19.4414C154.11 20.3558 153.693 21.1633 153.045 21.706H156.114C156.763 21.1676 157.179 20.3558 157.179 19.4414C157.179 18.527 156.763 17.7194 156.114 17.1768Z" fill="#3D3DC7"></path></svg></a><div class="NewSearch-module__searchAB"><span tabindex="1" style="display: inline-block;"><form action="/pages/rmd_search/" method="get" autocomplete="off"><div class="SearchForm-module__searchFormWrapperAB"><input class="SearchForm-module__input" maxlength="150" placeholder="Книга, серия, автор, жанр, тег, издательство" name="q" value=""><button class="SearchForm-module__btn" type="submit">Найти</button></div></form></span><div class="Search-module__errorText"></div></div><div style="display: flex;"><div class="MyBooks-modules__wrapper"><a href="/pages/new_liked/" class="MyBooks-modules__myBooksLink"></a><div class="MyBooks-modules__logo"><svg width="20" height="17" viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="icon-favorite" stroke="#212121" stroke-width="1.5"><path d="M17.1748 2.2002C18.7214 3.74684 18.7807 6.23557 17.3093 7.85403L9.93699 15.9629L2.56562 7.854C1.09429 6.23554 1.15355 3.74679 2.70019 2.20015C4.42711 0.473229 7.27122 0.631031 8.79687 2.53809L9.9375 3.96335L11.0771 2.53793C12.6028 0.630869 15.4479 0.473284 17.1748 2.2002Z" stroke="#020305" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path></svg></div><div class="MyBooks-modules__info"><p class="MyBooks-modules__title">Отложенные</p></div></div><div class="MyBooks-modules__wrapper"><a href="/pages/new_basket/" class="MyBooks-modules__myBooksLink"></a><div class="MyBooks-modules__logo"><svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="icon-basket" stroke="#212121" stroke-width="1.5"><path d="M19.0258 9H5.17729C4.51291 9 4.03325 9.63591 4.21577 10.2747L6.02267 16.5989C6.5133 18.3161 8.08285 19.5 9.86877 19.5H14.3344C16.1203 19.5 17.6898 18.3161 18.1805 16.5989L19.9874 10.2747C20.1699 9.6359 19.6902 9 19.0258 9Z" stroke="#020305" strokeWidth="1.5" strokeLinejoin="round"></path><path d="M15.8411 9H8.36207C7.64573 9 7.16173 8.2689 7.44149 7.60945L7.72644 6.9378C8.35344 5.45986 9.80332 4.5 11.4088 4.5H12.7944C14.3998 4.5 15.8497 5.45986 16.4767 6.9378L16.7616 7.60945C17.0414 8.2689 16.5574 9 15.8411 9Z" stroke="#020305" strokeWidth="1.5" strokeLinejoin="round"></path></svg></div><div class="MyBooks-modules__info"><p class="MyBooks-modules__title">Корзина</p></div></div></div><div class="Login-module__wrapper"><a href="/pages/login/" class="Login-module__loginLink"></a><div class="Login-module__logo"><svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="10.5" cy="9" r="3.25" stroke="#020305" stroke-width="1.5"></circle><path d="M5 17.318C6.34208 16.0095 8.00575 15 10.5 15C12.9943 15 14.6579 16.0095 16 17.318" stroke="#020305" stroke-width="1.5"></path><rect x="1.5" y="1" width="18" height="18" rx="9" stroke="#020305" stroke-width="1.5"></rect></svg></div><div class="Login-module__info"><p class="Login-module__title">Войти</p></div></div><div class="Popover-module__overlay"></div><span tabindex="1" style="display: inline-block;"><div class="MyBooks-modules__wrapper"><a href="/pages/my_books_all/" class="MyBooks-modules__myBooksLink"></a><div class="MyBooks-modules__logo"><svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.52031 3.4566L9 3.8557L9.47969 3.45659C11.8482 1.48592 15.3363 0.941615 17.0657 0.798626C17.1164 0.794433 17.1557 0.810372 17.1876 0.841191C17.2219 0.874195 17.25 0.928153 17.25 1V11.16C17.25 11.2941 17.1284 11.46 16.923 11.4826C15.2865 11.6629 11.9444 12.3065 9.29087 14.6576C9.13079 14.7995 8.86921 14.7995 8.70913 14.6576C6.05562 12.3065 2.71347 11.6629 1.07704 11.4826C0.871628 11.46 0.75 11.2941 0.75 11.16V1.00001C0.75 0.928159 0.778148 0.874201 0.81236 0.841197C0.844308 0.810377 0.883591 0.794438 0.9343 0.798631C2.6637 0.941629 6.15176 1.48594 8.52031 3.4566Z" stroke="#212121" stroke-width="1.5"></path><path d="M9 3V9.5V14" stroke="#212121" stroke-width="1.5"></path></svg></div><div class="MyBooks-modules__info"><p class="MyBooks-modules__title">Мои книги</p></div></div></span></div><nav class="LowerMenu-module__lowerMenu"><div class="LowerMenu-module__wrapper"><div class="LowerMenu-module__item LowerMenu-module__genres" data-id="catalog"><a href="#genres_popup"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19 9H5C4.44772 9 4 9.44772 4 10V18C4 18.5523 4.44772 19 5 19H19C19.5523 19 20 18.5523 20 18V10C20 9.44772 19.5523 9 19 9Z" stroke="black" stroke-width="1.5" stroke-linejoin="round"></path><path d="M17 7H7C6.44772 7 6 7.44772 6 8C6 8.55228 6.44772 9 7 9H17C17.5523 9 18 8.55228 18 8C18 7.44772 17.5523 7 17 7Z" stroke="black" stroke-width="1.5" stroke-linejoin="round"></path><path d="M15 5H9C8.44772 5 8 5.44772 8 6C8 6.55228 8.44772 7 9 7H15C15.5523 7 16 6.55228 16 6C16 5.44772 15.5523 5 15 5Z" stroke="black" stroke-width="1.5" stroke-linejoin="round"></path></svg>Каталог</a></div><div class="LowerMenu-module__item LowerMenu-module__orange" data-id="subscription"><a href="/litres_subscription/">Подписка за 0 ₽</a></div><div class="LowerMenu-module__item" data-id="newBooks"><a href="/novie/">Новинки</a></div><div class="LowerMenu-module__item" data-id="popular"><a href="/luchshie-knigi/">Популярное</a></div><div class="LowerMenu-module__item" data-id="audiobooks"><a href="/chto-slushat/">Аудиокниги</a></div><div class="LowerMenu-module__item" data-id="whatToRead"><a href="/chto-chitat/">Что почитать?</a></div><div class="LowerMenu-module__item" data-id="selfpub"><a href="/kollekcii-knig/besplatnii-samizdat/">Самиздат</a></div><div class="LowerMenu-module__item LowerMenu-module__orange" data-id="promoCodes"><a href="/pages/put_money_on_account/?descr=18">Промокод</a></div><span tabindex="1" style="display: inline-block;"><div class="LowerMenu-module__more" data-id="more"><a>Ещё</a><svg width="11" height="6" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.004 1l-4 4-4-4" stroke="#9D9C9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></span><div class="LowerMenu-module__item" data-id="certifacatePresent"><a href="/certificate-present">В подарок</a></div></div></nav></header><div style="top: 170px;" data-header-popup="genres" class="GenresTreePopup__wrapper Header-module__genresWrapper GenresTreePopup__hidden" id="genres_popup"><a class="GenresTreePopup__close-icon" href="#close_genres_popup"></a><div class="AllGenres-module__genres-wrapper"><div class="AllGenres-module__genres-container"><div class="Column-module__column"><a class="Column-module__title" href="/legkoe-chtenie/">Легкое чтение</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-boeviki-ostrosugetnaya/" title="6 поджанров, 36978 книг" data-arts-count="36978">Боевики, остросюжетная литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-detektivy/" title="10 поджанров, 58085 книг" data-arts-count="58085">Детективы</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-fantastika/" title="14 поджанров, 67728 книг" data-arts-count="67728">Фантастика</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-fentezi/" title="16 поджанров, 55153 книги" data-arts-count="55153">Фэнтези</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-lubovnye-romany/" title="7 поджанров, 87603 книги" data-arts-count="87603">Любовные романы</a></li><li class="Column-module__more-genres">Все 12</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/sereznoe-chtenie/">Серьезное чтение</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-sovremennaya-proza/" title="5 поджанров, 145098 книг" data-arts-count="145098">Современная проза</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/sereznoe-chtenie/ob-istorii-serezno/" title="4 поджанра, 61088 книг" data-arts-count="61088">Об истории серьезно</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-publicistika/biografii-memuary/" title="28795 книг" data-arts-count="28795">Биографии и мемуары</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/klassicheskaya-literatura/" title="15 поджанров, 74137 книг" data-arts-count="74137">Классическая литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/sereznoe-chtenie/ctihi-poeziya/" title="3 поджанра, 31870 книг" data-arts-count="31870">Cтихи, поэзия</a></li><li class="Column-module__more-genres">Все 6</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/istoriya/">История</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-sovremennaya-proza/istoricheskaya-literatura/" title="25658 книг" data-arts-count="25658">Историческая литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-detektivy/istoricheskie/" title="2524 книги" data-arts-count="2524">Исторические детективы</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-priklucheniya/istoricheskie/" title="7164 книги" data-arts-count="7164">Исторические приключения</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-publicistika/biografii-memuary/" title="28795 книг" data-arts-count="28795">Биографии и мемуары</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/populyarno-ob-istorii/" title="6199 книг" data-arts-count="6199">Популярно об истории</a></li><li class="Column-module__more-genres">Все 12</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/znaniya-navyki/biznes/">Бизнес-книги</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/biznes-knigi/zarubezhnaya-delovaya-literatura/" title="14213 книг" data-arts-count="14213">Зарубежная деловая литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/biznes-knigi/o-biznese-populyarno/" title="15 поджанров, 15102 книги" data-arts-count="15102">О бизнесе популярно</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/biznes-knigi/lichnaya-effektivnost/" title="4738 книг" data-arts-count="4738">Личная эффективность</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/biznes-knigi/marketing-pr-reklama/" title="20 поджанров, 4087 книг" data-arts-count="4087">Маркетинг, PR, реклама</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/biznes-knigi/internet/" title="1970 книг" data-arts-count="1970">Интернет-бизнес</a></li><li class="Column-module__more-genres">Все 31</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/znaniya-navyki/">Знания и навыки</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-psihologiya/samorazvitiye-lichnostnyy-rost/" title="23058 книг" data-arts-count="23058">Саморазвитие / личностный рост</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/znaniya-navyki/uchebnaya-nauchnaya-literatura/" title="17 поджанров, 322644 книги" data-arts-count="322644">Учебная и научная литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-nauka-obrazovanie/nauchno-populyarnaya-literatura/" title="18035 книг" data-arts-count="18035">Научно-популярная литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/psihologiya-motivaciya/istorii-iz-zhizni/" title="8746 книг" data-arts-count="8746">Истории из жизни</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-ezoterika/" title="11 поджанров, 29098 книг" data-arts-count="29098">Эзотерика</a></li><li class="Column-module__more-genres">Все 10</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/psihologiya-motivaciya/">Психология, мотивация</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-psihologiya/samorazvitiye-lichnostnyy-rost/" title="23058 книг" data-arts-count="23058">Саморазвитие / личностный рост</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-psihologiya/" title="18 поджанров, 52642 книги" data-arts-count="52642">Книги по психологии</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-publicistika/biografii-memuary/" title="28795 книг" data-arts-count="28795">Биографии и мемуары</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/psihologiya-motivaciya/istorii-iz-zhizni/" title="8746 книг" data-arts-count="8746">Истории из жизни</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-ezoterika/" title="11 поджанров, 29098 книг" data-arts-count="29098">Эзотерика</a></li><li class="Column-module__more-genres">Все 7</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/sport-zdorove-krasota/">Спорт, здоровье, красота</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/sport-zdorove-krasota/medicina-i-zdorove/" title="8 поджанров, 23696 книг" data-arts-count="23696">Медицина и здоровье</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/erotika-seks/seksualnyye-rukovodstva/" title="1468 книг" data-arts-count="1468">Секс / секс-руководства</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/sport-zdorove-krasota/krasota/" title="4 поджанра, 2915 книг" data-arts-count="2915">Красота</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/sport-zdorove-krasota/sport/" title="2 поджанра, 9070 книг" data-arts-count="9070">Спорт</a></li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/hobbi-dosug/">Хобби, досуг</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/prikladnaya-literatura/" title="4347 книг" data-arts-count="4347">Прикладная литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/kulinariya/" title="7172 книги" data-arts-count="7172">Кулинария</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/hobbi_uvlecheniya/" title="7852 книги" data-arts-count="7852">Хобби / увлечения</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/spravochniki-slovari/putevoditeli/" title="3014 книг" data-arts-count="3014">Путеводители</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-krasota-zdorove/sport-fitnes/" title="8516 книг" data-arts-count="8516">Спорт / фитнес</a></li><li class="Column-module__more-genres">Все 19</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/dom-dacha/">Дом, дача</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/kulinariya/" title="7172 книги" data-arts-count="7172">Кулинария</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/dom-dacha/domashnee-hozyaystvo/" title="838 книг" data-arts-count="838">Домашнее хозяйство</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/hobbi_uvlecheniya/" title="7852 книги" data-arts-count="7852">Хобби / увлечения</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/rukodeliye-remesla/" title="7665 книг" data-arts-count="7665">Рукоделие и ремесла</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/sdelay-sam/" title="12561 книга" data-arts-count="12561">Сделай сам</a></li><li class="Column-module__more-genres">Все 16</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/detskie-knigi/">Детские книги</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/detskie-knigi/proza/" title="8275 книг" data-arts-count="8275">Детская проза</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/detskie-knigi/zarubezhnye/" title="6771 книга" data-arts-count="6771">Зарубежные детские книги</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/detskie-knigi/detskaya_pazvivayushaya_literatura/" title="16458 книг" data-arts-count="16458">Детская познавательная и развивающая литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/detskie-knigi/fantastika/" title="5110 книг" data-arts-count="5110">Детская фантастика</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/detskie-knigi/priklucheniya/" title="9479 книг" data-arts-count="9479">Детские приключения</a></li><li class="Column-module__more-genres">Все 15</li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/roditelyam/">Родителям</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-dom-semya/vospitanie-detey/" title="6174 книги" data-arts-count="6174">Воспитание детей</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-psihologiya/detskaya/" title="4086 книг" data-arts-count="4086">Детская психология</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/zdorovye-detey/" title="779 книг" data-arts-count="779">Здоровье детей</a></li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/publicistika-periodicheskie-izdaniya/">Публицистика и периодические издания</a><ul class="Column-module__list"><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/knigi-publicisticheskaya_literatura/" title="7 поджанров, 93400 книг" data-arts-count="93400">Публицистическая литература</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/podcasts/" title="9 поджанров, 32647 книг" data-arts-count="32647">Подкасты</a></li><li class="Item-module__item-wrapper"><a class="Item-module__item" href="/periodicheskie-izdaniya/" title="4 поджанра, 41157 книг" data-arts-count="41157">Периодические издания</a></li></ul></div><div class="Column-module__column"><a class="Column-module__title" href="/luchshie-knigi/tag_samizdat/">Самиздат</a></div><div class="Column-module__column"><a class="Column-module__title" href="/luchshie-knigi/tag_chernoviki/">Черновики</a></div></div></div><div class="GenresTreePopup__all-genres"><a href="/pages/new_genres/">Все 142 жанра</a></div></div></div><div data-header_popup="genres" class="header-popup"><a class="close"></a><div class="header-popup__inner"><div class="bubble_genres"></div><div class="bubble_back"></div><div class="bubble_subgenres"></div><div class="bubble_allgenres"><a href="/pages/new_genres/">Все 345 жанров</a></div></div></div><div itemtype="https://schema.org/Book" itemscope="itemscope" class="page"><meta itemprop="dateModified" content=""><div class="ab-container"><ul class="breadcrumbs" id="breadcrumbs" itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList"><li itemtype="https://schema.org/ListItem" itemscope="itemscope" itemprop="itemListElement" class="breadcrumbs__item"><a href="/" itemprop="item"><span itemprop="name">Книги</span></a><meta itemprop="position" content="1"></li><li class="breadcrumbs__item" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/genre/prosto_o_biznese-6466/"><span itemprop="name">Просто о бизнесе</span></a><meta content="2" itemprop="position"></li><li class="breadcrumbs__item" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/author/stanislav-logunov/"><span itemprop="name">Станислав Логунов</span></a><meta content="3" itemprop="position"></li><li class="breadcrumbs__item" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/"><span itemprop="name">📚 27 книг успешного руководителя</span></a><meta content="4" itemprop="position"></li><li class="breadcrumbs__item" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><span><span itemprop="name">Читать онлайн бесплатно</span></span><meta content="5" itemprop="position"></li></ul></div><div class="ab-container book_preview_container"><div class="block_table"><div class="content_column column"><div class="biblio_book_top block_table"><div class="biblio_book_left column"><div class="biblio_book_cover biblio_book_cover_type0" id="biblio_book_cover_23217190"><div class="biblio_book_cover_inside biblio_book_cover_inside0"><div class="cover"><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/" onclick="yametrika_read(); switchActionTrackerTo(23217190,'read_fragment',8,0,'');
+	" target="_blank" class="biblio-book-cover-wrapper" id="biblio-book-cover-wrapper"><noscript><picture><source srcset="https://cv9.litres.ru/pub/c/cover_330/23217190.webp" type="image/webp"></source><source srcset="https://cv9.litres.ru/pub/c/cover/23217190.jpg.jpg" type="image/jpg"></source><img data-src="https://cv9.litres.ru/pub/c/cover/23217190.jpg" src="https://cv9.litres.ru/pub/c/cover/23217190.jpg.jpg" alt="27 книг успешного руководителя" itemprop="image" width="330" height="473"></picture></noscript><script type="text/javascript">
+					var ymSended = false;
+					function onCoverError(coverEl) {
+						coverEl.dataset.coverError = 1;
+
+						if (!ymSended) {
+							ymReachGoal("webp_convert_error", {
+								artId: litres.page.biblio_book.art.id
+							});
+
+							ymSended = true;
+						}
+					}
+
+					(function () {
+						function drawCover() {
+							var coverWrap = document.createElement('picture');
+							var cover = document.createElement('img');
+							var windowWidth = document.body.offsetWidth;
+							var width = 0;
+							var height = 0;
+							var img_path = 'https://cv9.litres.ru/pub/c/cover/23217190.jpg';
+							if (windowWidth <= 1279 || false || false) {
+								width = 330;
+								height = 473;
+							} else {
+								
+								width = 415;
+								height = 595;
+							}
+							
+							cover.setAttribute('id', 'biblio_book_cover_image');
+							cover.setAttribute('class', '');
+							cover.setAttribute('itemprop', 'image');
+							cover.setAttribute('width', width);
+							cover.setAttribute('height', height);
+							cover.setAttribute('src', img_path.replace('/cover/','/cover_' + width + '/'));
+							cover.setAttribute('onerror', 'onCoverError(this);');
+							cover.dataset.src = 'https://cv9.litres.ru/pub/c/cover/23217190.jpg';
+							cover.setAttribute('alt', '27 книг успешного руководителя');
+
+							var webpSource = document.createElement('source');
+							webpSource.setAttribute('srcset', img_path.replace('/cover/','/cover_' + width + '/').replace('.jpg', '.webp'));
+							webpSource.setAttribute('type', 'image/webp');
+							coverWrap.appendChild(webpSource);
+
+							var originalSource = document.createElement('source');
+							originalSource.setAttribute('srcset', img_path.replace('/cover/','/cover_' + width + '/'));
+							originalSource.setAttribute('type', 'image/jpg');
+							coverWrap.appendChild(originalSource);
+
+							coverWrap.appendChild(cover);
+							document.getElementById('biblio-book-cover-wrapper').appendChild(coverWrap);
+						}
+
+						drawCover();
+					})();
+				</script></a><span class="sticker book_icons"><span class="icon_adult"><span class="age digit1"></span><span class="age digit6"></span></span></span><span class="sticker flags"></span></div></div></div></div><div class="biblio_book_center column"><script type="text/javascript">litres.book = {
+			id: "23217190",
+			name: "27 книг успешного руководителя",
+			type: "0",
+			price: "389.00",
+			price_full: "389.00",
+			discount: "0",
+			release_file: "71321778",
+			genre: "Просто о бизнесе",
+			copyright: "Эксмо",
+			author: "Станислав Логунов",
+			cover_ratio: 0.697
+		};</script><div class="biblio_book_name biblio-book__title-block"><h1 itemprop="name">27 книг успешного руководителя</h1><span class="label label-text">Текст</span></div><div class="biblio_book_author"><span class="biblio_book_author_title">Автор:</span><a itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author" href="/author/stanislav-logunov/" class="biblio_book_author__link"><span itemprop="name">Станислав Логунов</span></a></div><div class="biblio_book_sequences"><span class="biblio_book_sequences_title">Из серии: </span><span class="serie_item"><a class="biblio_book_sequences__link" href="/serii-knig/psihologiya-iskusstvo-lidera/">Психология. Искусство лидера</a></span></div><link rel="stylesheet" href="/static/litres/modules/arts/cover-material/css/popup_rating_material.css" type="text/css"><div class="is-newer-rating rating-source-info with-livelib-ratings"><div itemtype="https://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" data-id="23217190" data-options="{
+				&quot;art_id&quot;: 23217190,
+				&quot;voted&quot;: [
+					9,
+					7,
+					10,
+					12,
+					79
+				],
+				&quot;mid_vote&quot;: 4.3,
+				&quot;votes_count&quot;: 117,
+				&quot;user_vote&quot;: 0,
+				&quot;has_own_recense&quot;: false,
+				&quot;source_name&quot;: &quot;litres&quot;
+				}
+			" class="art-rating-unit rating-source-litres rating-popup-launcher"><meta content="1" itemprop="worstRating"><meta content="5" itemprop="bestRating"><meta itemprop="ratingValue" content="4.3"><meta itemprop="ratingCount" content="117"><div class="rating-text-wrapper" title="Оценка: 4,3"><div class="rating-number bottomline-rating" aria-hidden="true">4,3</div><div class="rating-source-icon" title="Оценка: 4,3"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 30 29" height="29px" width="30px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#FF4C00" stroke="#FF4C00" stroke-width="2" fill-rule="nonzero" transform="translate(-441.000000, -51.000000)"><g transform="translate(441.000000, 51.000000)"><path d="M6.63927656,27.2087237 L15,22.1735129 L23.3607234,27.2087237 C23.5552531,27.3258783 23.787812,27.1596746 23.740838,26.9655059 L21.4620737,17.5461352 L28.9168739,11.2496986 C29.0740235,11.1169676 28.9915659,10.8673347 28.7695949,10.8497885 L18.9999096,10.0775215 L15.2328714,1.14726272 C15.1500453,0.950912427 14.8499547,0.950912427 14.7671286,1.14726272 L11.0000904,10.0775215 L1.23040508,10.8497885 C1.00843411,10.8673347 0.925976492,11.1169676 1.08312613,11.2496986 L8.53792635,17.5461352 L6.25916195,26.9655059 C6.21218804,27.1596746 6.44474689,27.3258783 6.63927656,27.2087237 Z"></path></g></g></g></svg></div><div class="votes-count bottomline-rating-count" aria-hidden="true">117</div></div></div><span class="divider-line"></span><div data-id="23217190" data-options="{
+				&quot;art_id&quot;: 23217190,
+				&quot;voted&quot;: [
+					0,
+					1,
+					4,
+					17,
+					3
+				],
+				&quot;mid_vote&quot;: 3.9,
+				&quot;votes_count&quot;: 25,
+				&quot;user_vote&quot;: 0,
+				&quot;popup_href&quot;: &quot;/kollekcii-knig/knigi-ot-livelib/&quot;,
+				&quot;source_name&quot;: &quot;livelib&quot;
+				}
+			" class="art-rating-unit rating-source-livelib rating-popup-launcher"><div class="rating-text-wrapper" title="Оценка LiveLib: 3,9"><div class="rating-number bottomline-rating" aria-hidden="true">3,9</div><div class="rating-source-icon" title="Оценка LiveLib: 3,9"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 34 24" height="24" width="34"><path fill="url(#paint0_linear)" d="M18.5928 23.5666C21.8014 21.6491 26.0334 19.1094 27.5336 18.2184C29.0338 17.3274 30 16.593 30 14.9529C30 13.3129 29.9903 3.19137 29.9903 1.77455C29.9903 0.357725 28.6991 -0.564133 27.0742 0.391706C25.6601 1.22349 17.0006 6.41654 17.0006 6.41654C17.0006 6.41654 8.51852 1.32914 6.92751 0.391706C5.3365 -0.545733 4.01119 0.330413 4.01119 1.78616C4.01119 3.24191 4.00551 13.9215 4 14.9501C4 16.6151 5.02087 17.3358 6.46614 18.2184C7.91141 19.101 12.1582 21.6577 15.4129 23.5666C15.6656 23.7148 16.202 24 17.0018 24C17.8016 24 18.3678 23.701 18.5928 23.5666Z" clip-rule="evenodd" fill-rule="evenodd"></path><defs><linearGradient gradientUnits="userSpaceOnUse" y2="9.75099" x2="4" y1="9.74932" x1="30" id="paint0_linear"><stop stop-color="#3E99ED"></stop><stop stop-color="#59C7FF" offset="1"></stop></linearGradient></defs></svg></div><div class="votes-count bottomline-rating-count" aria-hidden="true">25</div></div></div><span class="divider-line"></span><a class="recenses-unit" id="book_reviews_link" href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/?track=from_o_knige#recenses"><div class="recenses-count"><div class="rating-text-wrapper">20</div><div class="rating-source-icon"><svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-209.000000, -132.000000)"><g transform="translate(40.000000, 130.000000)"><g transform="translate(153.000000, 0.000000)"><g><g transform="translate(16.000000, 2.000000)"><path d="M0,1.0002 L0,11.0002 C6.76353751e-17,11.5524847 0.44771525,12.0002 1,12.0002 L3,12.0002 L3,14.8718398 C3,15.4241246 3.44771525,15.8718398 4,15.8718398 C4.23397588,15.8718398 4.46054436,15.789796 4.64027244,15.6399877 L9.007,12.0002 L16,12.0002 C16.5522847,12.0002 17,11.5524847 17,11.0002 L17,1.0002 C17,0.44791525 16.5522847,0.0002 16,0.0002 L1,0.0002 C0.44771525,0.0002 -6.76353751e-17,0.44791525 0,1.0002 Z" fill="#3B393F" class="svg-recenses"></path><path d="M4,4 L13,4" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M4,8 L11,8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></g></g></g></g></g></g></svg></div></div><div class="recenses-label">Отзывы</div></a></div><div class="biblio_book_actions"><div class="biblio_book_actions_flex"><a data-clicktag-id="read_part" onclick="yametrika_read(); switchActionTrackerTo(23217190,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/23217190.&amp;art=23217190&amp;trials=1&amp;user=0&amp;file=71321778&amp;price=389.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20389.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fstanislav-logunov%2F27-knig-uspeshnogo-rukovoditelya-23217190%2F&amp;is_exclusive=0');
+	 return false;" class="coolbtn border-gray action_read button_high light_actions
+									 clicktag" href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/" title="Читать фрагмент"><span class="read-icon"><svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"><g class="g-stroke" transform="translate(-2867.000000, -858.000000)"><g transform="translate(2862.000000, 851.000000)"><g transform="translate(6.000000, 8.000000)"><path d="M9,4.00323486 C9,0.497843416 11.989624,0 14,0 L17.5092223,0 C17.7802713,0 18,0.225639343 18,0.493741035 L18,12.506259 C18,12.7789446 17.7744034,13 17.4990206,13 C17.4990206,13 17.4860077,13 14,13 C10.0021973,13 9,15.0008545 9,15.0008545 C9,15.0008545 9,7.35675049 9,4.00323486 Z" stroke-width="2"></path><path d="M8.11371898e-16,4.00323486 C3.97897696e-15,0.497843416 2.98962402,0 5,0 L8.50922226,0 C8.78027132,0 9,0.225639343 9,0.493741035 L9,12.506259 C9,12.7789446 8.7744034,13 8.49902055,13 C8.49902055,13 8.48600769,13 5,13 C1.00219727,13 4.11731557e-15,15.0008545 4.11731557e-15,15.0008545 C4.11731557e-15,15.0008545 -2.19403652e-15,7.35675049 8.11371898e-16,4.00323486 Z" stroke-width="2" transform="translate(4.500000, 7.500427) scale(-1, 1) translate(-4.500000, -7.500427) "></path></g></g></g></g></svg></span>Читать фрагмент</a><link rel="stylesheet" href="/static/litres/modules/arts/buttons/css/arts-buttons.css" type="text/css"><script>requirejs(['art-buttons']);</script><div class="art-box  art-box_border button_high light_actions"><div class="art-box__top"><div class="art-box__title"><form method="post"><input value="add_art_to_likes" name="action" type="hidden"><input value="849092:1688719302:7f4b5f20438f8ab2e0f2f64060f479240af8637c2750e7b7589acb52c7816a7a" name="csrf" type="hidden"><input value="23217190" name="art" type="hidden"><input name="clean_redir" type="hidden"><button data-price="389.00" data-storeartbox="23217190" data-action="addfavorite" class="art-button art-buttons__favorite" data-promobookspopup="1">Отложить</button></form></div><div class="art-box__right_action"><form method="post"><input value="add_art_to_basket" name="action" type="hidden"><input value="849092:1688719302:7f4b5f20438f8ab2e0f2f64060f479240af8637c2750e7b7589acb52c7816a7a" name="csrf" type="hidden"><input value="23217190" name="art" type="hidden"><input name="clean_redir" type="hidden"><button data-storeartbox="23217190" data-name="27 книг успешного руководителя" data-price="389.00" data-action="addbasket" class="art-button art-buttons__basket"></button></form></div></div></div></div></div><div class="popup_free__counter" id="popup_free__counter"><div class="popup_free__counter_caption">Зарегистрируйтесь<br/>и читайте книгу бесплатно:</div><div class="popup_free__counter_timeleft" id="popup_free__counter_timeleft"><span>0</span><span>0</span><i class="separator">:</i><span>0</span><span>0</span></div></div><button class="coolbtn popup_free__button">Читать книгу бесплатно</button><div class="avail_by_subscr"><a class="btn btn-green avail_by_subscr__button" href="/litres_subscription/"><span class="avail_by_subscr__button_text">Доступна по подписке</span></a></div><div class="biblio_book_buy_block"><div class="biblio_book_buy clicktag biblio_book_buy_btn_top" id="unr_buynow" data-clicktag-id="buynow_book"><form onsubmit="return Payment.open({art: 23217190,ref_url: litres.ref_url, callback: sendMetrics});" action="" method="post"><input type="hidden" name="action" value="create_custom_set"><input type="hidden" name="csrf" value="849092:1688719302:7f4b5f20438f8ab2e0f2f64060f479240af8637c2750e7b7589acb52c7816a7a"><input value="23217190" type="hidden" name="arts"><input type="hidden" name="buy_now" value="true"><button rel="#buy_book_data" class="coolbtn a_buyany btn-green"><span class="uppercase">Купить и скачать за</span> <span class="simple-price">389 <span class="currency litres_ruble">₽</span></span></button></form></div><div class="biblio_book_payments clicktag" id="biblio_book_payments_parent" data-clicktag-id="buypay"><a href="javascript: void(0);" class="a_buyicon a_buyicon_mastercard ya_buybtn" id="a_buybtn_mastercard" data-tab="visa" title="MasterCard" data-descr="32">MasterCard</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_visa ya_buybtn" id="a_buybtn_visa" data-tab="visa" title="Visa" data-descr="32">Visa</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_mir ya_buybtn" id="a_buybtn_mir" data-tab="mir" title="МИР" data-descr="32">МИР</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_qiwi ya_buybtn" id="a_buybtn_qiwi" data-tab="qiwi" title="QIWI кошелек" data-descr="51">QIWI кошелек</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_paypal ya_buybtn" id="a_buybtn_paypal" data-tab="paypal" title="PayPal" data-descr="69">PayPal</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_yandex ya_buybtn" id="a_buybtn_yandex" data-tab="yandex" title="ЮMoney" data-descr="55">ЮMoney</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_megafon ya_buybtn" id="a_buybtn_megafon" data-tab="mobile" title="Мегафон" data-descr="65">Мегафон</a><a href="javascript: void(0);" class="a_buyicon a_buyicon_applepay ya_buybtn" id="a_buybtn_applepay" data-tab="applepay" title="ApplePay" data-descr="7">ApplePay</a></div><span itemprop="offers" itemscope="true" itemtype="https://schema.org/Offer"><meta itemprop="price" content=""><meta itemprop="priceCurrency" content="RUB"></span></div><div class="get_book_by_subscr"><div class="get_book_by_subscr__text">Эта и еще 2 книги за 399 <span class="currency litres_ruble">₽</span>. <a href="/abonement/">Подробнее</a></div></div><link rel="stylesheet" href="/static/litres/modules/arts/popup-folders/css/popup-folders.css" type="text/css"><div class="readart_toggle_block"><div class="mark_as_read-wrapper"><div data_checked="false" class="mark_as_read-btn">Отметить прочитанной</div><div class="mark_as_read-more-btn mark_as_read-more-btn_bonus"><svg width="28px" height="6px" viewBox="0 0 28 6" version="1.1" xmlns="http://www.w3.org/2000/svg"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-301.000000, -577.000000)" fill="#767579"><g transform="translate(40.000000, 555.000000)"><g transform="translate(249.000000, 0.000000)"><path d="M15,28 C13.3431458,28 12,26.6568542 12,25 C12,23.3431458 13.3431458,22 15,22 C16.6568542,22 18,23.3431458 18,25 C18,26.6568542 16.6568542,28 15,28 Z M26,28 C24.3431458,28 23,26.6568542 23,25 C23,23.3431458 24.3431458,22 26,22 C27.6568542,22 29,23.3431458 29,25 C29,26.6568542 27.6568542,28 26,28 Z M37,28 C35.3431458,28 34,26.6568542 34,25 C34,23.3431458 35.3431458,22 37,22 C38.6568542,22 40,23.3431458 40,25 C40,26.6568542 38.6568542,28 37,28 Z"></path></g></g></g></g></svg></div></div></div><div style="display:none;" class="biblio_book_go_to_lib_map" id="biblio_book_go_to_lib_map"><div class="biblio_book_library_buy_text">Также данная книга доступна ещё в <span id="biblio_book_library_buy_text_count"></span> библиотеке. Запишись сразу в несколько библиотек и получай книги намного быстрее.</div><div class="biblio_book_library_button__libhouse_map"><a href="/pages/libhouse_map/?art=23217190" class="biblio_book_library__libhouse_map-link">Выбрать библиотеки</a></div></div><div class="biblio_book_howto"><div class="biblio_book_howto_caption" data-popup-read="start" role="heading" aria-level="3">Как читать книгу после покупки</div><div class="blocks devices devices_ru"><a href="javascript:void(0);" class="smartphone" data-popup-read="smartphone">Смартфон,<br/>планшет</a><a href="javascript:void(0);" class="notebook" data-popup-read="notebook">Компьютер,<br/>ноутбук</a><a href="javascript:void(0);" class="reader" data-popup-read="reader">Ридер</a></div><ul class="download_formats"><li class="uppercase"><strong>Скачать:</strong></li><li><a href="javascript:void(0);" data-book-buy="buy">FB2</a></li><li><a href="javascript:void(0);" data-book-buy="buy">EPUB</a></li><li><a href="javascript:void(0);" data-book-buy="buy">iOS.EPUB</a></li><li><a href="javascript:void(0);" data-popup-read="format_type">Ещё 7</a></li></ul></div><div class="paid_booktofriend"><button class="paid_booktofriend__btn" data-animation="true"><span class="paid_booktofriend__btn_thumbsup"><svg width="24px" height="29px" viewBox="0 0 24 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(-76.000000, -22.000000)" stroke="#FF4C00" stroke-width="2"><g><path d="M96.4070783,46.074154 C96.5613553,46.4220155 96.6470588,46.8078725 96.6470588,47.2142857 C96.6470588,48.7493065 95.4126821,50 93.8857635,50 L82.7034907,50 C81.7881399,50 80.628562,49.5110822 79.9817121,48.8565317 L77,45.8393231 L77,36.4585864 L77.576842,36.1891822 C77.6204543,36.1688138 77.7205071,36.1178907 77.8688694,36.0352706 C78.1268952,35.8915808 78.4172792,35.7138157 78.7319252,35.5009014 C79.63881,34.8872316 80.5482245,34.119326 81.3968195,33.1892908 C83.5987552,30.7760337 85.0035068,27.7218936 85.2371961,23.9383528 L85.2951532,23 L86.2352941,23 C88.7608581,23 90.259134,24.21289 90.7355165,26.1411051 C90.934771,26.9476113 90.934771,27.7765385 90.8192563,28.5558041 C90.7898456,28.7542094 90.7591176,28.9062238 90.7503502,28.9307398 L89.9309569,33.7142857 L96.2277194,33.7142857 C97.762268,33.7142857 99,34.9580827 99,36.5 C99,37.3548051 98.6177657,38.1200793 98.0145215,38.6312145 C98.2667744,39.0511059 98.4117647,39.5437972 98.4117647,40.0714286 C98.4117647,40.9263299 98.0296774,41.6914557 97.4263951,42.2025167 C97.6785822,42.6224528 97.8235294,43.1151989 97.8235294,43.6428571 C97.8235294,44.6867299 97.2535087,45.5970866 96.4070783,46.074154 Z"></path></g></g></g></svg></span><span class="paid_booktofriend__btn_text"><span class="paid_booktofriend__btn_title">Посоветуйте книгу друзьям!</span>Друзьям – скидка 10%, вам – рубли</span></button><div class="paid_booktofriend__spoiler"><div class="paid_booktofriend__text">По вашей ссылке друзья получат скидку 10% на эту книгу, а вы будете получать 10% от стоимости их покупок на свой счет ЛитРес. <a href="/kniga-drugu/">Подробнее</a></div><div class="paid_booktofriend__text">Стоимость книги: <span class="paid_booktofriend__price">389 <span class="currency litres_ruble">₽</span></span><br>Ваш доход с одной покупки друга: <span class="paid_booktofriend__price">38,90 <span class="currency litres_ruble">₽</span></span></div><span class="paid_booktofriend__spoiler_title">Чтобы посоветовать книгу друзьям, необходимо войти или зарегистрироваться</span><button class="btn btn-orange paid_booktofriend__login" id="paid_booktofriend__login">Войти</button></div></div><div class="biblio_book_info"><ul><li class="volume"><strong>Объем:</strong> 230 стр. 30 иллюстраций</li><li><strong>Жанр:</strong> <a href="/genre/lichnaya-effektivnost-5064/" class="biblio_info__link"><span class="uppercase">л</span>ичная эффективность</a>, <a href="/genre/prosto_o_biznese-6466/" class="biblio_info__link"><span class="uppercase">п</span>росто о бизнесе</a>, <a href="/genre/samorazvitiye-lichnostnyy-rost-5253/" class="biblio_info__link"><span class="uppercase">с</span>аморазвитие / личностный рост</a></li><li class="tags_list"><strong>Теги:</strong> <a href="/tags/delovaya-biblioteka/" class="biblio_info__link"><span class="uppercase">д</span>еловая библиотека</a>, <a href="/tags/psihologiya-liderstva/" class="biblio_info__link"><span class="uppercase">п</span>сихология лидерства</a>, <a href="/tags/rukovoditelyam-organizaciy-i-predpriyatiy/" class="biblio_info__link"><span class="uppercase">р</span>уководителям организаций и предприятий</a>, <a href="/tags/effektivnoe-rukovodstvo/" class="biblio_info__link"><span class="uppercase">э</span>ффективное руководство</a><a href="#" class="multi-factor__link">Редактировать</a></li></ul></div></div></div></div></div></div><div class="ab-container"><div class="tab__reading"><nav class="book-tabs" id="book-tabs"><ul><li data-name="book" data-goal="Tab_about-book"><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/">О книге</a></li><li data-name="citaty" data-goal="Tab_citaty"><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/citaty/">Цитаты <span class="count">1</span></a></li><li data-name="otzivi" data-goal="Tab_otzivi"><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/otzivi/">Отзывы <span class="count">20</span></a></li><li class="tab-active" data-name="book_online" data-goal="Tab_read-online"><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/">Читать онлайн</a></li></ul></nav></div><div id="is_book_tab"><div class="reader-book-online"><div class="read-book-online__info"><div class="read-book-online__title">27 книг успешного руководителя</div><div class="read-book-online__authors"><div><a href="/author/stanislav-logunov/" class="read-book-online__author">Станислав Логунов</a></div></div></div><div class="font_switcher" id="font_switcher" data-fonts="1.0"><span class="fs_label">Шрифт:</span><span class="btn_switch btn_switch_small" data-type="small">Меньше <span>Аа</span></span><span class="btn_switch btn_switch_big" data-type="big">Больше <span>Аа</span></span></div><div class="online_reading" id="onlineread"><h2 id="part_51">Об авторе</h2><div style="text-align: center;"><img alt="" src="/pub/t/23217190.json/i_001.jpg"></div><br><p>Эта книга стала естественным развитием блога «Сила знаний», посвященного обзорам деловой литературы. Его автор, Станислав Логунов, как никто другой понимает важность информации, сосредоточенной в книгах по бизнесу и саморазвитию. Он считает ее ценнейшим ресурсом для экономического, карьерного и личностного роста. Его собственная биография – яркое тому подтверждение. За два десятилетия управленческой работы в строительной отрасли он прошел путь, вехами которого стали такие должности, как главный инженер филиала ГУП «Водоканал Санкт-Петербурга», заместитель председателя городского комитета по строительству, директор «Центра государственной экспертизы», а также руководящие позиции в департаменте государственного заказчика Министерства Обороны РФ. Станислав Логунов один из основателей Ассоциации экспертиз строительных проектов, объединившей экспертное сообщество России.</p><p>В настоящее время он делится опытом эффективного управления – консультирует руководителей бизнес-структур, занимается образовательными проектами, ведет постоянную рубрику «Сила знаний» в одной из петербургских газет и развивает интернет-портал silaproject.ru, посвященный бизнес-литературе.</p><br><p><b>ОПЫТ РУКОВОДСТВА</b></p><br><div style="text-align: center;"><img alt="" src="/pub/t/23217190.json/i_002.jpg"></div><br><p><b>ОПЫТ РАБОТЫ</b></p><br><div style="text-align: center;"><img alt="" src="/pub/t/23217190.json/i_003.jpg"></div><h2 id="part_68">Предисловие</h2><p>Чтобы стать успешным управленцем, нужно потратить годы на приобретение собственного опыта либо использовать знания, полученные из других источников. Второй способ проще и быстрее, ведь искусству управления посвящено огромное количество книг, тренингов, учебных роликов и других материалов. Но среди этого океана информации немало повторяющихся мыслей и советов, зачастую от посредственных советчиков.</p><p>За 19 лет работы в качестве руководителя я пришел к устойчивому мнению, что в российской системе подготовки технических специалистов не уделяется должного внимания вопросам управления. Это вызывает оправданное недовольство руководства, которое ждет от своих менеджеров высоких результатов. Но, возможно, лидерам стоит взглянуть на себя в зеркало и сначала проверить свой собственный уровень компетентности.</p><p>Начать нужно с себя, даже будучи управленцем высокого уровня. Нельзя хорошо управлять, не умея этого делать. Именно руководитель обладает всеми необходимыми ресурсами для того, чтобы правильно выстроить структуру работы организации и заниматься обучением сотрудников, тем самым обеспечивая более результативную и эффективную работу компании, ее развитие. В то же время работники младшего и среднего звена должны понимать, что отсутствие должной управленческой квалификации является препятствием их карьерному росту.</p><p>Книга, лежащая перед вами, адресована обеим категориям читателей. Руководители найдут здесь множество идей для собственного развития и развития своих подчиненных. А рядовые сотрудники смогут лучше понять, как добиться успеха и стать достойным лидером, а также то, как должно работать успешное предприятие.</p><p>В книге два основных раздела. В первом собраны обзоры произведений, посвященных личностному развитию. Из них читатели узнают, что нужно для того, чтобы стать хорошим управленцем, и как воспитать в себе эти качества. Второй раздел посвящен организационному развитию. Успех отдельного человека немыслим без успеха всей компании, и понимать законы ее жизни должны все сотрудники.</p><p>Из обзоров вы сможете составить представление о том, где лучше всего почерпнуть действительно полезные знания, которые предостерегут вас от ошибок и подскажут новые пути развития и направления для размышлений.</p><p>Для каждого произведения указан его уровень сложности (базовый, продвинутый или экспертный) и дана оценка по десятибалльной шкале для своего уровня.</p><p>Приятного чтения, и пусть эта книга поможет вам повысить свою эффективность, добиться успеха и твердо встать на путь непрерывного развития!</p><p>Обсудить эти обзоры и ознакомиться с новыми публикациями о бизнес-литературе вы можете на моем сайте silaproject.ru.</p><h2 id="part_80">Раздел I<br>Личностное развитие</h2><h3 id="part_84">Будь лучшей версией себя<br>Дэн Вальдшмидт</h3><p><b>Оригинальное название:</b> Edgy Conversations: How Ordinary People Can Achieve Outrageous Success.</p><p><b><b>Достоинства:</b></b> Книга действительно обладает мотивирующим воздействием.</p><p><b>Недостатки:</b> Отсутствие оригинальности, безапелляционность суждений.</p><p><b>Издатель на русском языке:</b> «Манн, Иванов и Фербер»</p><p><b>Время прочтения:</b> 2–3 часа</p><p><b>Уровень:</b> Базовый</p><p><b>Оценка:</b> 7,5/10</p><br><div style="text-align: center;"><img alt="" src="/pub/t/23217190.json/i_004.jpg"></div><br><p><b>Книг о том, что нужно делать, чтобы стать богатым и знаменитым, великое множество. Но в большинстве своем они рекомендуют определенные наборы действий, направленных на достижение конкретных карьерных целей. В качестве альтернативного решения эксперт по бизнес-стратегии Дэн Вальдшмидт в своей работе «Будь лучшей версией себя» предлагает сконцентрироваться на развитии личных качеств.</b></p><br><p>Вальдшмидт был успешным бизнесменом, но эмоциональный срыв, поставивший его на грань жизни и смерти, вынудил молодого миллионера пересмотреть свои главные ценности. Он осознал, что успех обеспечивают не столько действия, сколько психологическое состояние, то, что человек собой представляет. По мнению автора книги, секрет высокой эффективности в том, чтобы максимально реализовать свой потенциал, стать «лучшей версией себя».</p><br><p><b>ОПРАВДАНИЯ</b></p><blockquote><p>Первое, с чего Вальдшмидт советует начать: прекратить искать себе оправдания. Человек – существо объясняющее, и в своих неудачах он, как правило, обвиняет непреодолимые преграды или козни врагов. Однако это путь в никуда.</p>
+</blockquote><p>Безусловно, внешние поводы могут иметь место, но практически всегда причина ваших неудач находится в вас самих. Если у вас уже несколько раз не получилось – измените подход. Если в вас никто не верит – спросите себя, так ли вы нуждаетесь в чужом одобрении. Боитесь риска – вспомните, что это оборотная сторона смелости. Если вас не повышают в должности, то, скорее всего, не из-за вашей национальной, религиозной или еще какой-то принадлежности, а вследствие сомнений в вашей компетенции, и надо приложить усилия, чтобы развеять эти сомнения.</p><p>Вальдшмидт убежден: чем чаще вы боретесь сами с собой, тем чаще выигрываете. Для этого важно верить в победу, несмотря на страх, бороться до самого конца, даже получив сокрушительный удар, не стесняться правды, не экономить время на саморазвитие и не позволять тревоге лишать вас боевого настроя.</p><br><p><b>ОТВАГА</b></p><blockquote><p>По мнению автора книги, заурядные усилия приводят к заурядному результату. Для выдающихся итогов и усилия требуются соответствующие. Вальдшмидт призывает отказаться от благоразумия, стремления к равновесию, а вместо этого добиваться предельных результатов.</p>
+</blockquote><p>Чтобы стать лучше, придется отказаться от страха. Нельзя позволять себе сомневаться в результате, надо бороться.</p><p>Нужно прекратить тратить время и энергию на то, что на самом деле не важно. Это требует смелости, но, например, прочитать хорошую книгу гораздо важнее, чем посмотреть телевизионное шоу. На самом деле, трудно найти что-то менее важное, чем смотрение в телевизор: время, проведенное за этим занятием, только отодвигает человека от его жизненных целей.</p><p>Огромные усилия и храбрость требуются для того, чтобы попросить прощения у людей за свои проступки. Но если сделать это от души, вы признаете свою вину и, как следствие, свою ответственность за результат, без чего хороших результатов не добиться.</p><p>Вальдшмидт считает, что по-настоящему успешные люди всегда непохожи на других. Да, это требует отваги, скорее всего, не принесет продвижения по карьерной лестнице, но если вы примете решение не подстраиваться под окружающих, быть самим собой – это поможет раздвинуть границы ваших возможностей.</p><p>Действия человека ограничены его страхами, и, чтобы добиться настоящих достижений, нужно осознать свои страхи, посмотреть им в лицо.</p><blockquote><p>Всегда следует находить в себе потенциал для дополнительных усилий. Практически никто не выкладывается на 100 процентов, а значит, вы можете сделать что-то большее.</p>
+</blockquote><p>Надо прекратить прислушиваться к чужому мнению, утверждает Вальдшмидт. Я бы не стал делать подобных утверждений или как минимум добавил оговорку: не нужно прислушиваться к мнению людей, в чьем интеллектуальном потенциале и справедливом отношении к себе вы сомневаетесь. Никого не слушает только глупец, но не меньший глупец слушает всех подряд.</p><p>Всегда нужно все ставить под сомнение. Скептический склад мышления очень помогает увидеть ситуацию во всей полноте. И главное – необходимо не бояться постоянно учиться. Человек, который не познает новое, теряет множество потенциальных возможностей, о которых он попросту не знает. «Путь к победе лежит через постоянный поиск знаний. Никто не сможет вас остановить, пока вы не прекратите искать ответы».</p><br><p><b>ОРГАНИЗОВАННОСТЬ</b></p><blockquote><p>Но смелость и способность прилагать экстремальные усилия не помогут добиться ошеломительных результатов, если у вас отсутствует дисциплина. Только непрерывные последовательные действия могут привести к цели.</p>
+</blockquote><p>На этом пути не бывает выходных. Подобно спортсменам, которые постоянно тренируются, чтобы всегда быть в форме, вы не можете позволить себе отдыхать. Один мой знакомый музыкант как-то рассказал, что если он в течение недели не будет играть, то потом потребуется несколько месяцев на восстановление былой формы.</p><div style="float:left;" id="goog2"> </div><p>Нужна дисциплина самоограничений: решительный отказ от самооправданий, безделья, ощущения своей вечной правоты. Откажитесь от сиюминутного мгновенного вознаграждения за проходной результат, ведь вы не цирковой тюлень, который должен получать рыбешку за каждый трюк.</p><p>И нужно иметь в виду, что без планирования добиться успеха, скорее всего, не получится. Вероятность того, что карты сложатся в вашу пользу, существует, но рассчитывать только на это было бы неразумно. План должен быть смелым, предусматривать работу на пределе возможностей и учитывать перспективу одного-двух поражений. Их не избежать, и лучше заранее быть к ним готовым.</p><br><p><b>ОДАРИВАНИЕ</b></p><blockquote><p>«Эгоистичное поведение ограничивает ваш потенциал стать выдающимся человеком, – пишет Вальдшмидт. – Щедрость – одна из самых надежных стратегий долговременного успеха». Здесь важно помнить, что под успехом автор понимает не только финансовый результат, но и удовлетворение от него.</p>
+</blockquote><p>Человек, который думает только о себе, способен заработать кучу денег, но деньги не могут ни любить, ни уважать, ни восхищаться. Они способны купить все это, но если вас не удовлетворяет продажная любовь и проплаченные аплодисменты, нужно уметь давать, а не только брать.</p><p>При этом надо учитывать, что речь идет о дарении, а не о подаянии и не о покупке. О желании сделать лучше другим, а не себе. Даря, не стоит ждать чего-то взамен. Дарящий из чувства вины за свое благосостояние просто покупает себе индульгенцию. Тот, кто действует ради славы и рекламы, на самом деле не дарит – он инвестирует.</p><p>Если дар для вас ничего не стоит – это не дар. Когда вы отдаете человеку что-то ненужное, вы просто избавляетесь от хлама. Чтобы проявить щедрость, следует отдавать что-то ценное – время, энергию, эмоции.</p><p>Желание проявлять щедрость происходит из чувства благодарности – в том числе и благодарности судьбе за ваш успех. В конце концов, в мире есть масса всего, за что стоит быть благодарным: как бы вам ни было плохо, всегда есть те, кому еще хуже.</p><blockquote><p>Щедрость меняет людей. Жертвуя чем-то, человек становится лучше, а чем он лучше, тем успешнее.</p>
+</blockquote><p><b>ОБЩИТЕЛЬНОСТЬ</b></p><blockquote><p>Значение способности понимать людей для достижения жизненного успеха трудно переоценить. Нужно ясно осознавать, что управляет человеческим поведением и как происходит процесс принятия решений.</p>
+</blockquote><p>Вальдшмидт считает, что за многими поступками стоят боль и страх. Речь идет не о физической боли, скорее это воспоминание о ней или ее предвкушение. Сидевший под детской кроваткой Бука оказывает влияние на решения пожилого менеджера. Обиды из школьной раздевалки сказываются на поведении вполне взрослых людей. Страх из глубокого детства мешает принимать решения, не позволяя повысить эффективность. Он превращает потенциально успешного человека в посредственность, которая боится собственного потенциала.</p><p>Особое влияние страх оказывает на алгоритмы общения с другими людьми. Негативный опыт создает ложное ощущение знания, что ответ на просьбу будет отрицательным. В результате боязни отказа вы упускаете возможности. А ведь на самом деле вы ничем не рисковали, худшее, что могло случиться, – подтверждение вашего же предположения.</p><p>Человеческий мозг, по словам Вальдшмидта, обрабатывает данные так: если информация скучная или предсказуемая, то она игнорируется, если сложная, то обобщается, а если угрожающая, то включается реакция «бей или беги».</p><p>Автор книги считает, что это автоматические реакции, доставшиеся людям от первобытных предков. Эти реакции не позволяют рационально рассматривать ситуацию. Вальдшмидт предлагает контролировать свои мысли, помня, что все может оказаться не таким, как кажется. Фактически речь идет о том, что первое впечатление бывает обманчивым и не предполагает действий, только анализ. От себя хотел бы добавить, что в случае, если вы чувствуете угрозу, все же лучше доверять своим естественным реакциям. В темном переулке модель поведения «бей или беги» совсем не так первобытна, как кажется Вальдшмидту.</p><blockquote><p>Нужно мыслить позитивно, видя в каждой ситуации не угрозу, а возможность. Неудача – всего лишь препятствие на пути к успеху, а не щелчок по вашему самолюбию. Даже черно-белое кино в реальности состоит из оттенков – соответственно, надо избегать крайностей при оценке.</p>
+</blockquote><p>Одной из важнейших составляющих успеха автор считает любовь. Она придает жизни страсть, полноту, целеустремленность. Любовь к людям должна лежать в основе вашей стратегии межличностных отношений. Именно она уравновешивает боль и страх, управляющие поведением людей.</p><p>Чем больше в вас будет любви, тем лучше вы будете. Не пугайтесь перспективы испытать душевную боль. Она откроет дорогу к новым возможностям, о которых вы сейчас даже не подозреваете. И сознательно планируйте свое участие в жизни других людей, будьте щедрым, помогайте тем, кто в этом нуждается. Это наполняет жизнь смыслом.</p><blockquote><p>Разница между незаурядным человеком и посредственностью, по Вальдшмидту, в том, что первый способен не поддаваться страху перед жизнью, вместо этого он движется вперед, вооруженный отвагой и воодушевляемый любовью.</p>
+</blockquote><p>«Будь лучшей версией себя» – книга, обладающая мощным мотивирующим эффектом. Примеры, которых у Вальдшмидта приведено очень много, убеждают читателя в том, что потенциально человек способен достичь практически чего угодно. Как считает автор, для этого стоит только сильно захотеть и иметь достаточную силу духа.</p><p>Бесспорно, это некоторое упрощение, книга вообще содержит много максималистских утверждений, которые не стоит принимать слишком буквально, но здесь вам поможет обычный здравый смысл. Также имеет место определенная неоригинальность, но на это обратит внимание только хорошо знакомый с бизнес-литературой читатель.</p><p>Еще один недостаток книги – ее крайняя несистематизированность. Мысль Вальдшмидта зачастую бродит по кругу, иногда сворачивая куда-то совсем в сторону. Повествование делает упор на эмоции в ущерб формальной логике.</p><p>Достаточно ли для успеха отваги, стойкости и достойных свойств души? Разумеется, нет. Но без них хороших результатов не достичь. Поэтому так важно развивать в себе эти качества, непрерывно стремиться стать «лучшим собой», и книга отлично стимулирует такое стремление.</p><h3 id="part_168">Начни с главного! 1 удивительно простой закон феноменального успеха<br>Гэри Келлер, Джей Папазан</h3><p><b>Оригинальное название:</b> The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results.</p><p><b>Достоинства:</b> В основе книги – очень здравая и практичная идея.</p><p><b>Недостатки:</b> Основная мысль изложена чересчур категорично, не ко всем рекомендациям авторов стоит прислушиваться.</p><p><b>Издатель на русском языке:</b> «Эксмо»</p><p><b>Время прочтения:</b> 4–5 часов</p><p><b>Уровень:</b> Базовый</p><p><b>Оценка:</b> 8,0/10</p><br><div style="text-align: center;"><img alt="" src="/pub/t/23217190.json/i_005.jpg"></div><br><p><b>Если вы заглянете к себе в ежедневник, то, скорее всего, увидите там множество задач, намеченных на сегодня. Созвониться с коллегами, принять участие в нескольких совещаниях, сделать что-то по проектам, которые вы ведете… Но даже если выполнить все планы, приблизит ли это достижение жизненной цели? Выдающийся специалист по торговле недвижимостью и преподаватель Гэри Келлер в написанной совместно с Джеем Папазаном книге «Начни с главного! 1 удивительно простой закон феноменального успеха» утверждает, что секрет заключается в понимании необходимости выделить одну-единственную главную вещь и сконцентрироваться только на ней.</b></p><br><p>По мнению Келлера, в любом деле есть какая-то одна вещь, от которой зависит все остальное. Это утверждение, несмотря на видимую четкость, носит достаточно спекулятивный характер, а потому очень легко обосновывается на исторических примерах – ведь ретроспективно выявить стержень событий несложно, а если даже такого стержня и не было, всегда можно выстроить подходящую убедительную теорию. Но, если задуматься, в основе подавляющего большинства историй успеха действительно лежит какая-то одна центральная идея или концепция.</p><br><p><b>ПРАВИЛО ПАРЕТО</b></p><p>В 30-х годах прошлого века американский аналитик и инженер Джозеф М. Джуран сформулировал принцип, названный им в честь итальянского экономиста Уильфредо Парето «Правилом Парето». Упрощенно говоря, это правило гласит, что практически вся человеческая деятельность приблизительно укладывается в соотношение 20/80. В Италии XIX века, как заметил Парето, двадцать процентов населения обладало восьмьюдесятью процентами земельных угодий. Двадцать процентов инвестиций принесут восемьдесят процентов прибылей, двадцать процентов усилий – восемьдесят процентов результатов. А двадцать процентов идей дадут восемьдесят процентов успеха. Иначе говоря, максимум достижений зависит от минимума деятельности. Некоторые вещи намного важнее всех остальных.</p><p>Келлер предлагает довести эту концепцию до предела. Если из десяти вещей важными оказываются две, то из пяти – только одна. Таким образом, путем последовательного сокращения возможностей можно прийти к тому основному, что необходимо сделать для достижения результата. Это не окажется буквально одна вещь, но одно направление, по которому следует двигаться. Сконцентрировав все силы на этом направлении, можно будет достигнуть желаемого успеха. Вместо того чтобы одновременно работать над множеством идей с низкой эффективностью, нужно разрабатывать всего одну – но с высоким результатом. Заниматься не всем тем, чем можно заниматься, а только тем, чем нужно.</p><br><p><b>МИФЫ, МЕШАЮЩИЕ КОНЦЕНТРАЦИИ</b></p><p>Существует целый ряд заблуждений, которые, согласно книге, мешают сконцентрироваться на главном и стоят на пути к заветным достижениям.</p><p>Есть люди, искренне считающие, что все стоящие перед ними задачи одинаково важны. Это глобальная ошибка – за пределами математики равенства не существует. Даже в девизе Французской Республики – «Свобода, равенство, братство» – слово «равенство» имеет конкретное значение: «равенство перед законом». Поэтому так опасно ведение неструктурированных списков дел, составленных по мере поступления проблем.</p><blockquote><p>Если не распределять стоящие задачи по степени их важности – запросто утонешь в потоке несущественных мелочей. Можно смело утверждать, что без четкого осознания иерархии дел успеха не достигнуть.</p>
+</blockquote><p>Существует устойчивый миф о том, что Гай Юлий Цезарь мог одновременно заниматься несколькими разными делами. Это представление основано на фразе историка Светония о том, что римский диктатор был способен работать над государственными вопросами во время гладиаторских игр. Все мы с таким же успехом можем считать себя многозадачными, когда пишем смс во время скучных совещаний.</p><blockquote><p>В реальности людей, работающих над несколькими несвязанными вопросами сразу, не существует – разница только в скорости, с которой мозг человека переключается с проблемы на проблему.</p>
+</blockquote><p>А скорость эта в принципе совсем не так велика, как кажется. И такая работа никогда не будет эффективной, а в некоторых случаях она может оказаться некачественной или даже опасной.</p><p>Многих пугает представление о том, что успешность зависит от дисциплинированности. Как считает Келлер, за дисциплину принимается выработанная привычка. Средний срок формирования привычки – спорная величина, в зависимости от взглядов исследователей и особенностей личности он варьируется в широком диапазоне, но предложенный в книге вариант в 66 дней кажется вполне разумным. Поскольку за раз можно привить только одну привычку, за год их набирается уже пять. Таким образом, привыкнуть концентрироваться на главном не так и сложно.</p><p>Наравне с дисциплинированностью характерная черта успешного человека в массовом сознании – сильная воля. Человек с неизменно сильной волей, обладатель квадратного подбородка с плакатов 30-х годов, в реальной жизни встречается значительно реже, чем на плакатах (да и нижняя челюсть у него может быть самой разной формы). Воля так или иначе присутствует в большинстве из нас, но она является возобновляемым расходным материалом. И в течение дня, по мере того как нам приходится проявлять силу воли, ее остается все меньше. Это хорошо знают те, кто пытался отказаться от вредных привычек: чем ближе вечер, тем сильнее желание нарушить добровольно наложенные на себя ограничения, не правда ли?</p><blockquote><p>Итак, чтобы добиться максимального эффекта силы воли, надо просто совершать действия, для которых она требуется, в периоды пиков – например, после отдыха.</p>
+</blockquote><p>И еще одно заблуждение, мешающее заняться главным, – боязнь масштаба. Большое представляется по определению тяжелым и опасным. Но ведь это явно не так. Маленькая проблема может обернуться гигантскими неприятностями, а на большой вопрос – найтись легкий и простой ответ.</p><div style="float:left;" id="goog3"> </div><blockquote><p>На самом деле линейной взаимосвязи между размером и сложностью не существует. И бояться больших задач глупо – они ничем не хуже прочих, а вот эффект от их решения явно будет значительнее.</p>
+</blockquote><p><b>ВОПРОС ФОКУСИРОВКИ</b></p><blockquote><p>Для успешной фокусировки книга предлагает ответить на один вопрос (который на самом деле является цепочкой вопросов): «Что одно я могу совершить, чтобы в результате все остальное на пути к цели упростилось или утратило необходимость?»</p>
+</blockquote><p>Этот вопрос состоит из трех частей. Первая – «что одно я могу совершить» – указывает на то, что действие должно быть именно одно, и оно вполне реально. Вторая – «чтобы в результате» – подразумевает, что совершенное действие будет иметь существенные последствия. И третья – «все остальное на пути к цели упростилось или утратило необходимость» – подчеркивает значимость ответа. По мнению Келлера, привычка задавать себе этот вопрос определяет жизненный успех человека.</p><p>Этот вопрос нужно задавать себе и в глобальном смысле, и в частных ситуациях. Он актуален в личностном развитии и отношениях с родственниками, в финансах или бизнесе. Ответ должен быть сформулирован на дальнюю перспективу и на ближайшее будущее, предельно конкретно и более абстрактно. И всякий раз, когда этот ответ неясен, необходимо прилагать усилия, чтобы его получить.</p><p>Для этого необходимо развиваться, читать книги, поскольку в книгах содержатся знания и опыт массы людей, уже ломавших головы над главными вопросами.</p><p>Ответ на фокусировочный вопрос может оказаться трудным, но чем труднодостижимей цель, тем интереснее ее добиваться.</p><br><p><b>СМЫСЛ ЖИЗНИ</b></p><p>Определение того единственного, что является основной целью в жизни, предназначением, и главного пути, на котором вы сможете этой цели достигнуть, – только начало. Предназначение – это основа, без нее движение будет бессмысленным. Из него следуют приоритеты, по которым будут строиться дальнейшие действия. А наличие осознанного предназначения и четких приоритетов обеспечивает продуктивную работу по достижению поставленной цели.</p><p>Именно соединение предназначения, приоритетов и продуктивности образует успех личности и прибыльность бизнеса.</p><p>Предназначение – это то, что придает жизни смысл и, в процессе самореализации, наполняет ее счастьем. В более узком и практическом смысле Келлер предлагает понимать его как то, чему вы более всего хотите посвятить свою жизнь. Исходя из этого выявляются приоритетные направления, обеспечивающие выполнение этого предназначения.</p><p>При этом можно выстроить иерархическую цепочку, которая подскажет задачи на каждый период, вплоть до дня или часа, с учетом планов на десятилетия. Для этого нужно последовательно задавать себе вопросы по схеме: «Учитывая мои цели на десятилетие, что одно я могу совершить в ближайшие пять лет, чтобы в результате все остальное на пути к цели упростилось или утратило необходимость?» – и постепенно снижать временные отрезки до, например, «Учитывая мои цели на сегодня, что одно я могу совершить в ближайший час…».</p><p>Секрет достижения цели – увязывать свои действия сегодня со всеми предстоящими днями. Людям присущ оптимизм по поводу своих способностей добиваться поставленных задач, и поэтому они зачастую не продумывают весь комплекс действий. План должен быть сформулирован полностью, и при этом письменно. Согласно исследованию, проведенному доктором Гэйл Мэттьюз среди 267 человек разного профессионального и социального статуса, те, кто записывает свои цели, достигают их на 39,5 % чаще, чем те, кто этого не делает.</p><br><p><b>ПРОДУКТИВНОСТЬ</b></p><p>Продуктивность – это результат, получаемый за единицу времени. Она показывает, насколько эффективно используется набор навыков и инструментов, позволяющих выполнить работу наилучшим образом, а также соответствие достигнутого поставленным целям.</p></div><div class="continue__reading"><div class="biblio_book_center"><div class="continue__reading_wrapper"><button class="coolbtn readonline_buy btn-green" rel="#buy_book_data" onclick="return false;"><span class="uppercase">Купить и скачать за </span><span class="simple-price">389 <span class="currency litres_ruble">₽</span></span></button></div></div></div><div class="pagination"><span class="pager__item pager_current">1</span><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-2/" class="pager__item">2</a><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-3/" class="pager__item">3</a><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-4/" class="pager__item">4</a><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-5/" class="pager__item">5</a><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-10/" class="pager__item pager__more">...</a><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-14/" class="pager__item">14</a><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/chitat-onlayn/page-2/" class="pager__item pager_next">След.</a></div></div><div class="ab-container book_wrapper "><div class="similar-books"><div data-standart-slider="false" data-slider-loadable="false" class="www arts-slider" id="slider-similar-books"><h2 class="slider__title"><a href="/book/stanislav-logunov/27-knig-uspeshnogo-rukovoditelya-23217190/pohozhie/">С этой книгой читают</a></h2><div class="slider-content arts-slider__arts_wrapper standart-slider"><div class="arts-slider__arts_wrapper__inner"><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 132px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.6956522"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="0" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/mark-menson/tonkoe-iskusstvo-pofigizma-paradoksalnyy-sposob-zhit-schastliv-25440816/" class="img-a" data-art="25440816" width="132" height="190"><div data-alt="Тонкое искусство пофигизма. Парадоксальный способ жить счастливо" class="processingImage"><div class="round-loader" style="width: 132px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="cover_material_bottom_info_wrap"><div class="non-owned-art-bottomline-wrapper bottomline-wrapper"><div class="middleline detailed-mode  "><div title="Оценка: 4,3" data-id="25440816" data-options="{&quot;art_id&quot;: 25440816,&quot;voted&quot;: [1315,730,1810,4362,11608],&quot;no_round_mid_vote&quot;: 4.22,&quot;mid_vote&quot;: 4.3,&quot;votes_count&quot;: 19825,&quot;user_vote&quot;: 0,&quot;no_details&quot;: true,&quot;detailed_mode&quot;: true}" class="inline-elem bottomline-rating-wrapper   rating-popup-launcher"><span><div class="inline-elem bottomline-rating" aria-hidden="true">4,3</div><div class="bottomline-star " aria-hidden="true"><svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g class="svg-g" transform="translate(-798.000000, -2020.000000)" fill-rule="nonzero"><path d="M801.816099,2034.90196 C801.3102,2035.20529 800.682423,2034.75862 800.81984,2034.19311 L801.957705,2029.51051 L798.23353,2026.37894 C797.783685,2026.00067 798.023416,2025.27812 798.614189,2025.23163 L803.501367,2024.84702 L805.3844,2020.4028 C805.611954,2019.86573 806.388046,2019.86573 806.6156,2020.4028 L808.498633,2024.84702 L813.385811,2025.23163 C813.976584,2025.27812 814.216315,2026.00067 813.76647,2026.37894 L810.042295,2029.51051 L811.18016,2034.19311 C811.317577,2034.75862 810.6898,2035.20529 810.183901,2034.90196 L806,2032.39338 L801.816099,2034.90196 Z"></path></g></g></svg></div><div class="bottomline-rating-count" aria-hidden="true">19 825</div></span></div><a onclick="yametrika_read(); switchActionTrackerTo(25440816,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/25440816.&amp;art=25440816&amp;trials=1&amp;user=0&amp;file=96868176&amp;price=369.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20369.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fmark-menson%2Ftonkoe-iskusstvo-pofigizma-paradoksalnyy-sposob-zhit-schastliv-25440816%2F&amp;is_exclusive=0');
+	 return false;" class="inline-elem artlink-wrapper readlink" href="/book/mark-menson/tonkoe-iskusstvo-pofigizma-paradoksalnyy-sposob-zhit-schastliv-25440816/chitat-onlayn/" title="Текст"><span class="artlink-href-for-material label label-text">Текст</span></a></div></div></div></div><div class="art__author"><a href="/author/mark-menson/" title="Марк Мэнсон">Марк Мэнсон</a></div><div class="art__name"><a class="art__name__href" title="Тонкое искусство пофигизма. Парадоксальный способ жить счастливо" href="/book/mark-menson/tonkoe-iskusstvo-pofigizma-paradoksalnyy-sposob-zhit-schastliv-25440816/"><span class="book_title_text">Тонкое искусство пофигизма. Парадоксальный способ жить счастливо</span></a></div></div><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 126px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.6635623"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="0" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/dzhia-dzhiang/a-ya-tebya-net-kak-ne-boyatsya-otkazov-i-idti-naprolom-k-svo-28957932/" class="img-a" data-art="28957932" width="126" height="190"><div data-alt="А я тебя «нет». Как не бояться отказов и идти напролом к своей цели" class="processingImage"><div class="round-loader" style="width: 126px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="cover_material_bottom_info_wrap"><div class="non-owned-art-bottomline-wrapper bottomline-wrapper"><div class="middleline detailed-mode  "><div title="Оценка: 4,6" data-id="28957932" data-options="{&quot;art_id&quot;: 28957932,&quot;voted&quot;: [88,70,232,627,2894],&quot;no_round_mid_vote&quot;: 4.58,&quot;mid_vote&quot;: 4.6,&quot;votes_count&quot;: 3911,&quot;user_vote&quot;: 0,&quot;no_details&quot;: true,&quot;detailed_mode&quot;: true}" class="inline-elem bottomline-rating-wrapper   rating-popup-launcher"><span><div class="inline-elem bottomline-rating" aria-hidden="true">4,6</div><div class="bottomline-star " aria-hidden="true"><svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g class="svg-g" transform="translate(-798.000000, -2020.000000)" fill-rule="nonzero"><path d="M801.816099,2034.90196 C801.3102,2035.20529 800.682423,2034.75862 800.81984,2034.19311 L801.957705,2029.51051 L798.23353,2026.37894 C797.783685,2026.00067 798.023416,2025.27812 798.614189,2025.23163 L803.501367,2024.84702 L805.3844,2020.4028 C805.611954,2019.86573 806.388046,2019.86573 806.6156,2020.4028 L808.498633,2024.84702 L813.385811,2025.23163 C813.976584,2025.27812 814.216315,2026.00067 813.76647,2026.37894 L810.042295,2029.51051 L811.18016,2034.19311 C811.317577,2034.75862 810.6898,2035.20529 810.183901,2034.90196 L806,2032.39338 L801.816099,2034.90196 Z"></path></g></g></svg></div><div class="bottomline-rating-count" aria-hidden="true">3911</div></span></div><a onclick="yametrika_read(); switchActionTrackerTo(28957932,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/28957932.&amp;art=28957932&amp;trials=1&amp;user=0&amp;file=99362893&amp;price=389.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20389.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fdzhia-dzhiang%2Fa-ya-tebya-net-kak-ne-boyatsya-otkazov-i-idti-naprolom-k-svo-28957932%2F&amp;is_exclusive=0');
+	 return false;" class="inline-elem artlink-wrapper readlink" href="/book/dzhia-dzhiang/a-ya-tebya-net-kak-ne-boyatsya-otkazov-i-idti-naprolom-k-svo-28957932/chitat-onlayn/" title="Текст"><span class="artlink-href-for-material label label-text">Текст</span></a></div></div></div></div><div class="art__author"><a href="/author/dzhia-dzhiang/" title="Джиа Джианг">Джиа Джианг</a></div><div class="art__name"><a class="art__name__href" title="А я тебя «нет». Как не бояться отказов и идти напролом к своей цели" href="/book/dzhia-dzhiang/a-ya-tebya-net-kak-ne-boyatsya-otkazov-i-idti-naprolom-k-svo-28957932/"><span class="book_title_text">А я тебя «нет». Как не бояться отказов и идти напролом к своей цели</span></a></div></div><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 133px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.7007007"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="0" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-6187749/" class="img-a" data-art="6187749" width="133" height="190"><div data-alt="45 татуировок менеджера. Правила российского руководителя" class="processingImage"><div class="round-loader" style="width: 133px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="cover_material_bottom_info_wrap"><div class="non-owned-art-bottomline-wrapper bottomline-wrapper"><div class="middleline detailed-mode  "><div title="Оценка: 4,7" data-id="6187749" data-options="{&quot;art_id&quot;: 6187749,&quot;voted&quot;: [211,116,250,701,5732],&quot;no_round_mid_vote&quot;: 4.66,&quot;mid_vote&quot;: 4.7,&quot;votes_count&quot;: 7010,&quot;user_vote&quot;: 0,&quot;no_details&quot;: true,&quot;detailed_mode&quot;: true}" class="inline-elem bottomline-rating-wrapper   rating-popup-launcher"><span><div class="inline-elem bottomline-rating" aria-hidden="true">4,7</div><div class="bottomline-star " aria-hidden="true"><svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g class="svg-g" transform="translate(-798.000000, -2020.000000)" fill-rule="nonzero"><path d="M801.816099,2034.90196 C801.3102,2035.20529 800.682423,2034.75862 800.81984,2034.19311 L801.957705,2029.51051 L798.23353,2026.37894 C797.783685,2026.00067 798.023416,2025.27812 798.614189,2025.23163 L803.501367,2024.84702 L805.3844,2020.4028 C805.611954,2019.86573 806.388046,2019.86573 806.6156,2020.4028 L808.498633,2024.84702 L813.385811,2025.23163 C813.976584,2025.27812 814.216315,2026.00067 813.76647,2026.37894 L810.042295,2029.51051 L811.18016,2034.19311 C811.317577,2034.75862 810.6898,2035.20529 810.183901,2034.90196 L806,2032.39338 L801.816099,2034.90196 Z"></path></g></g></svg></div><div class="bottomline-rating-count" aria-hidden="true">7010</div></span></div><a onclick="yametrika_read(); switchActionTrackerTo(6187749,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/6187749.&amp;art=6187749&amp;trials=1&amp;user=0&amp;file=80073845&amp;price=499.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20499.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fmaksim-batyrev%2F45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-6187749%2F&amp;is_exclusive=0');
+	 return false;" class="inline-elem artlink-wrapper readlink" href="/book/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-6187749/chitat-onlayn/" title="Текст"><span class="artlink-href-for-material label label-text">Текст</span></a></div></div></div></div><div class="art__author"><a href="/author/maksim-batyrev/" title="Максим Батырев">Максим Батырев</a></div><div class="art__name"><a class="art__name__href" title="45 татуировок менеджера. Правила российского руководителя" href="/book/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-6187749/"><span class="book_title_text">45 татуировок менеджера. Правила российского руководителя</span></a></div></div><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 143px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.7516457"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="0" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/dzho-dispenza/sila-podsoznaniya-ili-kak-izmenit-zhizn-za-4-nedeli-6301646/" class="img-a" data-art="6301646" width="143" height="190"><div data-alt="Сила подсознания, или Как изменить жизнь за 4 недели" class="processingImage"><div class="round-loader" style="width: 143px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="cover_material_bottom_info_wrap"><div class="non-owned-art-bottomline-wrapper bottomline-wrapper"><div class="middleline detailed-mode  "><div title="Оценка: 4,3" data-id="6301646" data-options="{&quot;art_id&quot;: 6301646,&quot;voted&quot;: [674,357,601,1191,5538],&quot;no_round_mid_vote&quot;: 4.26,&quot;mid_vote&quot;: 4.3,&quot;votes_count&quot;: 8361,&quot;user_vote&quot;: 0,&quot;no_details&quot;: true,&quot;detailed_mode&quot;: true}" class="inline-elem bottomline-rating-wrapper   rating-popup-launcher"><span><div class="inline-elem bottomline-rating" aria-hidden="true">4,3</div><div class="bottomline-star " aria-hidden="true"><svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g class="svg-g" transform="translate(-798.000000, -2020.000000)" fill-rule="nonzero"><path d="M801.816099,2034.90196 C801.3102,2035.20529 800.682423,2034.75862 800.81984,2034.19311 L801.957705,2029.51051 L798.23353,2026.37894 C797.783685,2026.00067 798.023416,2025.27812 798.614189,2025.23163 L803.501367,2024.84702 L805.3844,2020.4028 C805.611954,2019.86573 806.388046,2019.86573 806.6156,2020.4028 L808.498633,2024.84702 L813.385811,2025.23163 C813.976584,2025.27812 814.216315,2026.00067 813.76647,2026.37894 L810.042295,2029.51051 L811.18016,2034.19311 C811.317577,2034.75862 810.6898,2035.20529 810.183901,2034.90196 L806,2032.39338 L801.816099,2034.90196 Z"></path></g></g></svg></div><div class="bottomline-rating-count" aria-hidden="true">8361</div></span></div><a onclick="yametrika_read(); switchActionTrackerTo(6301646,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/6301646.&amp;art=6301646&amp;trials=1&amp;user=0&amp;file=97273926&amp;price=469.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20469.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fdzho-dispenza%2Fsila-podsoznaniya-ili-kak-izmenit-zhizn-za-4-nedeli-6301646%2F&amp;is_exclusive=0');
+	 return false;" class="inline-elem artlink-wrapper readlink" href="/book/dzho-dispenza/sila-podsoznaniya-ili-kak-izmenit-zhizn-za-4-nedeli-6301646/chitat-onlayn/" title="Текст"><span class="artlink-href-for-material label label-text">Текст</span></a></div></div></div></div><div class="art__author"><a href="/author/dzho-dispenza/" title="Джо Диспенза">Джо Диспенза</a></div><div class="art__name"><a class="art__name__href" title="Сила подсознания, или Как изменить жизнь за 4 недели" href="/book/dzho-dispenza/sila-podsoznaniya-ili-kak-izmenit-zhizn-za-4-nedeli-6301646/"><span class="book_title_text">Сила подсознания, или Как изменить жизнь за 4 недели</span></a></div></div><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 136px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.7142857"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="1" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/bendzhamin-franklin/vremya-dengi-6444536/" class="img-a" data-art="6444536" width="136" height="190"><div data-alt="Время – деньги!" class="processingImage"><div class="round-loader" style="width: 136px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="owned-art-bottomline-wrapper bottomline-wrapper   "><div class="biblio_book_read_text"><a href="/book/bendzhamin-franklin/vremya-dengi-6444536/chitat-onlayn/" onclick="showPopupErrorEscape('Чтобы почитать книгу «Время – деньги!», зарегистрируйтесь или войдите', '/static/or4/view/or.html?baseurl=/download_book/6444536/60235490/&amp;art=6444536&amp;user=0&amp;uilang=ru&amp;catalit2&amp;track_reading'); event.returnValue = false; return false;
+	" title="" class="owned-artlink-href-for-material"></a></div><div class="middleline"><div class="inside-wrapper"><div class="artlink-wrapper">Читать</div></div></div></div></div><div class="art__author"><a href="/author/bendzhamin-franklin/" title="Бенджамин Франклин">Бенджамин Франклин</a></div><div class="art__name"><a class="art__name__href" title="Время – деньги!" href="/book/bendzhamin-franklin/vremya-dengi-6444536/"><span class="book_title_text">Время – деньги!</span></a></div></div><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 121px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.6360424"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="1" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/stiven-king/lori-40431406/" class="img-a" data-art="40431406" width="121" height="190"><div data-alt="Лори" class="processingImage"><div class="round-loader" style="width: 121px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="owned-art-bottomline-wrapper bottomline-wrapper   "><div class="biblio_book_read_text"><a href="/book/stiven-king/lori-40431406/chitat-onlayn/" onclick="showPopupErrorEscape('Чтобы почитать книгу «Лори», зарегистрируйтесь или войдите', '/static/or4/view/or.html?baseurl=/download_book/40431406/47100387/&amp;art=40431406&amp;user=0&amp;uilang=ru&amp;catalit2&amp;track_reading'); event.returnValue = false; return false;
+	" title="" class="owned-artlink-href-for-material"></a></div><div class="middleline"><div class="inside-wrapper"><div class="artlink-wrapper">Читать</div></div></div></div></div><div class="art__author"><a href="/author/stiven-king/" title="Стивен Кинг">Стивен Кинг</a></div><div class="art__name"><a class="art__name__href" title="Лори" href="/book/stiven-king/lori-40431406/"><span class="book_title_text">Лори</span></a></div></div></div></div></div></div></div><div class="ab-container book_wrapper "><div class="similar-books"><div data-standart-slider="false" data-slider-loadable="false" class="www arts-slider" id="slider-author-books"><h2 class="slider__title">Другие книги автора</h2><div class="slider-content arts-slider__arts_wrapper standart-slider"><div class="arts-slider__arts_wrapper__inner"><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 130px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.682"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="0" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/stanislav-logunov/lider-na-katke-kak-byt-nastoyaschim-rukovoditelem-63930102/" class="img-a" data-art="63930102" width="130" height="190"><div data-alt="Лидер на катке. Как быть настоящим руководителем" class="processingImage"><div class="round-loader" style="width: 130px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="cover_material_bottom_info_wrap"><div class="non-owned-art-bottomline-wrapper bottomline-wrapper"><div class="middleline detailed-mode  "><div title="Оценка: 4,7" data-id="63930102" data-options="{&quot;art_id&quot;: 63930102,&quot;voted&quot;: [2,1,2,4,47],&quot;no_round_mid_vote&quot;: 4.66,&quot;mid_vote&quot;: 4.7,&quot;votes_count&quot;: 56,&quot;user_vote&quot;: 0,&quot;no_details&quot;: true,&quot;detailed_mode&quot;: true}" class="inline-elem bottomline-rating-wrapper   rating-popup-launcher"><span><div class="inline-elem bottomline-rating" aria-hidden="true">4,7</div><div class="bottomline-star " aria-hidden="true"><svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g class="svg-g" transform="translate(-798.000000, -2020.000000)" fill-rule="nonzero"><path d="M801.816099,2034.90196 C801.3102,2035.20529 800.682423,2034.75862 800.81984,2034.19311 L801.957705,2029.51051 L798.23353,2026.37894 C797.783685,2026.00067 798.023416,2025.27812 798.614189,2025.23163 L803.501367,2024.84702 L805.3844,2020.4028 C805.611954,2019.86573 806.388046,2019.86573 806.6156,2020.4028 L808.498633,2024.84702 L813.385811,2025.23163 C813.976584,2025.27812 814.216315,2026.00067 813.76647,2026.37894 L810.042295,2029.51051 L811.18016,2034.19311 C811.317577,2034.75862 810.6898,2035.20529 810.183901,2034.90196 L806,2032.39338 L801.816099,2034.90196 Z"></path></g></g></svg></div><div class="bottomline-rating-count" aria-hidden="true">56</div></span></div><a onclick="yametrika_read(); switchActionTrackerTo(63930102,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/63930102.&amp;art=63930102&amp;trials=1&amp;user=0&amp;file=82563556&amp;price=569.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20569.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fstanislav-logunov%2Flider-na-katke-kak-byt-nastoyaschim-rukovoditelem-63930102%2F&amp;is_exclusive=0');
+	 return false;" class="inline-elem artlink-wrapper readlink" href="/book/stanislav-logunov/lider-na-katke-kak-byt-nastoyaschim-rukovoditelem-63930102/chitat-onlayn/" title="Текст"><span class="artlink-href-for-material label label-text">Текст</span></a></div></div></div></div><div class="art__author"><a href="/author/stanislav-logunov/" title="Станислав Логунов">Станислав Логунов</a></div><div class="art__name"><a class="art__name__href" title="Лидер на катке. Как быть настоящим руководителем" href="/book/stanislav-logunov/lider-na-katke-kak-byt-nastoyaschim-rukovoditelem-63930102/"><span class="book_title_text">Лидер на катке. Как быть настоящим руководителем</span></a></div></div><div style="display: inline-block; vertical-align: top; margin: 0 5px 0 15px; width: 130px;" class="art-standart art-item mgrid cover-229" mgrid-elem="" mgrid-ratio="0.682"><div class="cover_material cover-229"><div class="cover-image-wrapper"><a data-available="1" data-freebie="0" data-purchased="0" data-type-clickhouse="text" data-type="elektronnaya-kniga" href="/book/stanislav-logunov/put-samuraya-2-0-berezhlivoe-myshlenie-50177191/" class="img-a" data-art="50177191" width="130" height="190"><div data-alt="Путь самурая 2.0. Бережливое мышление" class="processingImage"><div class="round-loader" style="width: 130px; height: 190px;"><div class="round-loader__progress"></div></div></div><span class="art-line-separator"></span></a></div><div style="height: 39px;" class="cover_material_bottom_info_wrap"><div class="non-owned-art-bottomline-wrapper bottomline-wrapper"><div class="middleline detailed-mode  "><div title="Оценка: 4,6" data-id="50177191" data-options="{&quot;art_id&quot;: 50177191,&quot;voted&quot;: [4,2,4,7,71],&quot;no_round_mid_vote&quot;: 4.58,&quot;mid_vote&quot;: 4.6,&quot;votes_count&quot;: 88,&quot;user_vote&quot;: 0,&quot;no_details&quot;: true,&quot;detailed_mode&quot;: true}" class="inline-elem bottomline-rating-wrapper   rating-popup-launcher"><span><div class="inline-elem bottomline-rating" aria-hidden="true">4,6</div><div class="bottomline-star " aria-hidden="true"><svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g class="svg-g" transform="translate(-798.000000, -2020.000000)" fill-rule="nonzero"><path d="M801.816099,2034.90196 C801.3102,2035.20529 800.682423,2034.75862 800.81984,2034.19311 L801.957705,2029.51051 L798.23353,2026.37894 C797.783685,2026.00067 798.023416,2025.27812 798.614189,2025.23163 L803.501367,2024.84702 L805.3844,2020.4028 C805.611954,2019.86573 806.388046,2019.86573 806.6156,2020.4028 L808.498633,2024.84702 L813.385811,2025.23163 C813.976584,2025.27812 814.216315,2026.00067 813.76647,2026.37894 L810.042295,2029.51051 L811.18016,2034.19311 C811.317577,2034.75862 810.6898,2035.20529 810.183901,2034.90196 L806,2032.39338 L801.816099,2034.90196 Z"></path></g></g></svg></div><div class="bottomline-rating-count" aria-hidden="true">88</div></span></div><a onclick="yametrika_read(); switchActionTrackerTo(50177191,'read_fragment',8,0,'/static/or4/view/or.html?baseurl=/pub/t/50177191.&amp;art=50177191&amp;trials=1&amp;user=0&amp;file=71321659&amp;price=449.00&amp;texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20449.00&amp;uilang=ru&amp;catalit2&amp;half=1&amp;track_reading&amp;friendly_url=%2Fbook%2Fstanislav-logunov%2Fput-samuraya-2-0-berezhlivoe-myshlenie-50177191%2F&amp;is_exclusive=0');
+	 return false;" class="inline-elem artlink-wrapper readlink" href="/book/stanislav-logunov/put-samuraya-2-0-berezhlivoe-myshlenie-50177191/chitat-onlayn/" title="Текст"><span class="artlink-href-for-material label label-text">Текст</span></a></div></div></div></div><div class="art__author"><a href="/author/stanislav-logunov/" title="Станислав Логунов">Станислав Логунов</a></div><div class="art__name"><a class="art__name__href" title="Путь самурая 2.0. Бережливое мышление" href="/book/stanislav-logunov/put-samuraya-2-0-berezhlivoe-myshlenie-50177191/"><span class="book_title_text">Путь самурая 2.0. Бережливое мышление</span></a></div></div></div></div></div></div></div></div></div><div id="is_book_tab"></div><div id="popup_read" class="popup_read popup"><div id="popup_loader"></div><div data-popup-read-tab="format_type"><div class="p-format-type-caption"><p class="p-format-type-caption-icon">Удобные форматы для скачивания</p></div><div class="p-format-type-text"><div class="book_send_file_box"><div class="biblio_book_download_section"><div class="biblio_book_download_section__caption">Популярные</div><div class="biblio_book_download_file format_fb2_zip"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="fb2_zip"><span class="name">FB2</span><span class="type">ZIP-архив 3,2 MB</span><span class="biblio_book_download_file__info">Читается всеми российскими электронными<br/>книгами и многими программами</span></a><span class="biblio_book_download_file__selector" data-type="fb2.zip" data-size="3381657"></span></div><div class="biblio_book_download_file format_epub"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="epub"><span class="name">EPUB</span><span class="type">3,9 MB</span><span class="biblio_book_download_file__info">Подходит для iBooks и<br/>большинства приложений для чтения</span></a><span class="biblio_book_download_file__selector" data-type="epub" data-size="4119119"></span></div></div><div class="biblio_book_download_section"><div class="biblio_book_download_section__caption">Для компьютеров</div><div class="biblio_book_download_file format_txt_zip"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="txt_zip"><span class="name">TXT</span><span class="type">ZIP-архив 127 KB</span><span class="biblio_book_download_file__info">Можно открыть на любом компьютере</span></a><span class="biblio_book_download_file__selector" data-type="txt.zip" data-size="131030"></span></div><div class="biblio_book_download_file format_rtf_zip"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="rtf_zip"><span class="name">RTF</span><span class="type">ZIP-архив 3,6 MB</span><span class="biblio_book_download_file__info">Можно открыть на любом компьютере</span></a><span class="biblio_book_download_file__selector" data-type="rtf.zip" data-size="3763005"></span></div><div class="biblio_book_download_file format_a4_pdf"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="a4_pdf"><span class="name">PDF A4</span><span class="type">3,4 MB</span><span class="biblio_book_download_file__info">Открывается в программе Adobe Reader</span></a><span class="biblio_book_download_file__selector" data-type="a4.pdf" data-size="3614140"></span></div></div><div class="biblio_book_download_section"><div class="biblio_book_download_section__caption">Для устройств</div><div class="biblio_book_download_file format_ios_epub"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="ios_epub"><span class="name">iOS.EPUB</span><span class="type">3,1 MB</span><span class="biblio_book_download_file__info">EPUB, адаптированный для iPhone и iPad</span></a><span class="biblio_book_download_file__selector" data-type="ios.epub" data-size="3236172"></span></div><div class="biblio_book_download_file format_a6_pdf"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="a6_pdf"><span class="name">PDF A6</span><span class="type">3,6 MB</span><span class="biblio_book_download_file__info">Оптимизирован под небольшие экраны</span></a><span class="biblio_book_download_file__selector" data-type="a6.pdf" data-size="3826183"></span></div><div class="biblio_book_download_file format_mobi_prc"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="mobi_prc"><span class="name">MOBI</span><span class="type">3,5 MB</span><span class="biblio_book_download_file__info">Подходит для электронных книг Amazon Kindle</span></a><span class="biblio_book_download_file__selector" data-type="mobi.prc" data-size="3697978"></span></div></div><div class="biblio_book_download_section"><div class="biblio_book_download_section__caption">Другие</div><div class="biblio_book_download_file format_fb3"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="fb3"><span class="name">FB3</span><span class="type">3,2 MB</span><span class="biblio_book_download_file__info">Развитие формата FB2</span></a><span class="biblio_book_download_file__selector" data-type="fb3" data-size="3350860"></span></div><div class="biblio_book_download_file format_txt"><a onclick="PopClickBuy();" class="biblio_book_download_file__link" href="javascript:void(0);" data-format="txt"><span class="name">TXT</span><span class="type">330 KB</span><span class="biblio_book_download_file__info">Можно открыть почти на любом устройстве</span></a><span class="biblio_book_download_file__selector" data-type="txt" data-size="338460"></span></div></div><div class="book_send_file_2_email"><a href="/pages/order_by_email/?art=23217190" class="book_send_file_button" data-file-id="71321778">Отправить на <span></span></a><div><a href="/pages/my_settings/" class="book_download_bottom__email">Изменить адрес Эл. почты в настройках</a><br></div></div></div><div class="book_send_file_done">Файл(ы) отправлены на почту <span></span></div></div></div><div data-lang="ru" data-container-id="23217190" data-container-type="text" id="popup_read__container"></div><div class="popup_read__bottom" data-popup-read="format_type"><div class="popup_read__bottom_wrapper"><div class="popup_read__bottom_caption">Удобные форматы для скачивания</div><div class="popup_read__bottom_links"><ul class="download_formats"><li><a href="javascript:void(0);" data-popup-read="format_type">FB2</a></li><li><a href="javascript:void(0);" data-popup-read="format_type">EPUB</a></li><li><a href="javascript:void(0);" data-popup-read="format_type">iOS.EPUB</a></li><li><a href="javascript:void(0);" data-popup-read="format_type">Ещё 7</a></li></ul></div></div></div></div><link rel="stylesheet" href="/static/litres/modules/ugc-slider/css/ugc-slider.css?870883" type="text/css"><script>
+			requirejs(['/static/litres/modules/ugc-slider/js/ugc-slider.js']);
+		</script><link rel="stylesheet" href="/static/litres/modules/sharing/css/sharing.css?870883" type="text/css"><link rel="stylesheet" href="/static/litres/modules/scrollbar/css/scrollbar.css?870883" type="text/css"><link rel="stylesheet" href="/static/wrapper/modules/abonement/css/fast_buy_popup.css?870883" type="text/css"><div id="subscr-fast-buy" class="subscr-fast-buy popup litres-popup"><p class="subscr-fast-buy__title">Эта и ещё 2 книги за 399 <span class="currency litres_ruble">₽</span></p><div class="subscr-fast-buy__text">По абонементу вы каждый месяц можете взять из каталога одну книгу до 700 ₽ и две книги из специальной подборки. <a href="/abonement/" class="subscr-fast-buy__more-link">Узнать больше</a></div><div class="subscr-fast-buy__oferta"><label class="input_label "><input checked="true" name="oferta" type="checkbox" class="input_checkbox"><span class="input_checkbox-custom-elem"></span>Оплачивая абонемент, я принимаю условия оплаты и её автоматического продления, указанные в <a target="_blank" class="buy-subscribe__oferta-link" href="/pages/litres_oferta/">оферте</a></label></div><div class="subscr-fast-buy__buttons"><button class="subscr-fast-buy__button btn btn_green buy-subscr">Оплатить</button><button class="subscr-fast-buy__button btn close-popup">Отмена</button></div></div></div></div><div class="footer-wrap"><div class="ab-container no_resize"><ul><li><ul class="without_header"><li><a href="/o-kompanii/">О компании</a></li><li><a href="/o-kompanii/contactnaya-informaciya/">Контакты</a></li><li><a href="/o-kompanii/vacancii/">Вакансии</a></li><li><a href="https://litres.helpdeskeddy.com/ru/">Служба поддержки</a></li><li><a target="_blank" href="https://litres.helpdeskeddy.com/ru/knowledge_base/article/634/category/57">Возврат</a></li><li><a href="/ux-research-now/1/">Участие в исследованиях</a></li><li class="site_name">© ООО «ЛитРес»</li></ul></li><li><ul class="without_header"><li><a href="/pages/put_money_on_account/?descr=18">Активировать купон</a></li><li><a href="/pages/litres_oferta/">Публичная оферта</a></li><li><a target="_blank" href="/static/litres/inc/ru/privacy_policy.html">Политика обработки<br/>персональных данных</a></li><li><a href="/static/litres/inc/ru/receive_newsletters.html" target="_blank">Согласие на получение рассылки</a></li><li><a target="_blank" href="/static/litres/inc/ru/tech_docs.html">Техническая документация</a></li></ul></li><li><span class="header">Сотрудничество</span><ul><li><a href="/o-kompanii/partneram/avtoram-i-izdatelstvam/">Издательствам</a></li><li><a href="/o-kompanii/partneram/avtoram-i-izdatelstvam/">Авторам</a></li><li><a href="/o-kompanii/biblioteka/">Библиотекам</a></li><li><a href="/o-kompanii/partnerskie-programmy/">Партнёрам</a></li><li><a href="/partners/">Вебмастерам</a></li><li><a href="/corp-library/">Компаниям</a></li><li><a href="https://selfpub.ru/?utm_source=litres&amp;utm_medium=footer" target="_blank" rel="nofollow">Стать автором Литрес</a></li></ul></li><li><span class="header">Что почитать?</span><ul><li><a href="/luchshie-knigi/">Бестселлеры</a></li><li><a href="/skoro-v-prodazhe/">Скоро в продаже</a></li><li><a href="/luchshie-avtori/">Популярные авторы</a></li><li><a href="/intervju/">Интервью с авторами</a></li></ul></li><li><ul class="footer_soc_icons"><span class="header">ЛитРес в соц.сетях</span><li><div><a href="https://vk.com/mylitres" class="footer_soc_icon footer_soc_icon_vk" target="_blank"></a><a href="https://ok.ru/litres" class="footer_soc_icon footer_soc_icon_ok" target="_blank"></a><a href="https://www.youtube.com/channel/UCtwqA50TvhYbF11cNKMDUAw" class="footer_soc_icon footer_soc_icon_yt" target="_blank"></a><a href="https://zen.yandex.ru/litres" class="footer_soc_icon footer_soc_icon_dzen" target="_blank"></a><a href="https://t.me/LitRes_ebooks" class="footer_soc_icon footer_soc_icon_tg" target="_blank" rel="nofollow"></a></div></li></ul></li></ul><style type="text/css">
+  .partners{margin:15px 5px; padding-top:15px; border-top:1px dotted #c7c7c7;}
+  .partners a{padding:0;}
+  .partners__title{color:#B0B0B0; font-weight:bold; font-size:14px; margin-bottom:22px;}
+  .partners__list{display:flex; flex-wrap:wrap; margin:0 0 60px 1px;}
+  .partners__item{width:12.5%; padding:0 0 20px 0;}
+  .partners__item-logo{display:block; background:url("/static/pr/partners.15022023.svg") no-repeat; width:98px; height:31px; cursor:pointer; filter:grayscale(100%); filter:gray; -webkit-transition:all 0.3s ease 0s; -moz-transition:all 0.3s ease 0s; -o-transition:all 0.3s ease 0s; transition:all 0.3s ease 0s;}
+  .partners__item-logo:hover{filter:none;}
+  .partners__item-logo_aeroflot{background-position:-1px 0;}
+  .partners__item-logo_ozon{background-position:1px -31px;}
+  .partners__item-logo_mnogoru{background-position:1px -61px;}
+  .partners__item-logo_s7{background-position:2px -91px;}
+  .partners__item-logo_spasibo{background-position:0 -120px;}
+  .partners__item-logo_rostelecom{background-position:-1px -152px;}
+  .partners__item-logo_vkcombo{background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='98px' height='38px' viewBox='0 0 98 38'%3E%3Cpath style='stroke:none;fill-rule:nonzero;fill:%23000;fill-opacity:1' d='M38.941 23.727c1.79 0 3.477-.93 4.118-2.739l-1.774-.297c-.375.762-1.21 1.293-2.23 1.293-1.524 0-2.59-1.129-2.59-2.738 0-1.61 1.066-2.738 2.59-2.738.984 0 1.804.515 2.164 1.262l1.773-.297c-.625-1.778-2.23-2.707-4.05-2.707-2.61 0-4.446 1.875-4.446 4.48 0 2.606 1.836 4.48 4.445 4.48ZM48.441 23.727c2.672 0 4.559-1.86 4.559-4.48 0-2.622-1.887-4.481-4.559-4.481-2.671 0-4.558 1.859-4.558 4.48 0 2.621 1.887 4.48 4.558 4.48Zm0-1.743c-1.543 0-2.59-1.113-2.59-2.738s1.047-2.738 2.59-2.738 2.594 1.113 2.594 2.738-1.05 2.738-2.594 2.738ZM56.527 23.559V18.5c0-1.18.707-2.023 1.688-2.023.984 0 1.66.843 1.66 2.023v5.059h1.883V18.5c0-1.18.707-2.023 1.691-2.023.985 0 1.656.843 1.656 2.023v5.059h1.887v-5.243c0-2.074-1.262-3.55-3.05-3.55-1.329 0-2.231.78-2.61 1.562-.426-.965-1.375-1.562-2.523-1.562-1.23 0-2.004.68-2.414 1.394l-.344-1.226h-1.41v8.625ZM74.16 23.727c2.442 0 4.164-1.875 4.164-4.48 0-2.606-1.722-4.481-4.164-4.481a4.077 4.077 0 0 0-3.152 1.476v-4.379H69.12V23.56h1.414l.39-1.391c.595.73 1.677 1.559 3.235 1.559Zm-.46-1.711c-1.59 0-2.692-1.145-2.692-2.77s1.101-2.77 2.691-2.77c1.574 0 2.656 1.145 2.656 2.77s-1.082 2.77-2.656 2.77ZM84.031 23.727c2.676 0 4.563-1.86 4.563-4.48 0-2.622-1.887-4.481-4.563-4.481-2.672 0-4.558 1.859-4.558 4.48 0 2.621 1.886 4.48 4.558 4.48Zm0-1.743c-1.539 0-2.59-1.113-2.59-2.738s1.051-2.738 2.59-2.738c1.543 0 2.594 1.113 2.594 2.738s-1.05 2.738-2.594 2.738Zm0 0'/%3E%3Cpath style='stroke:none;fill-rule:nonzero;fill:%2307f;fill-opacity:1' d='M9.406 18.602c0-4.297 0-6.442 1.324-7.778 1.325-1.332 3.454-1.332 7.711-1.332h.75c4.258 0 6.387 0 7.711 1.332 1.32 1.336 1.32 3.48 1.32 7.778v.757c0 4.297 0 6.446-1.32 7.778-1.324 1.336-3.453 1.336-7.71 1.336h-.75c-4.258 0-6.387 0-7.712-1.336-1.324-1.332-1.324-3.48-1.324-7.778Zm0 0'/%3E%3Cpath style='stroke:none;fill-rule:nonzero;fill:%23fff;fill-opacity:1' d='M19.29 23.164c-4.231 0-6.645-2.965-6.747-7.898h2.121c.066 3.62 1.633 5.156 2.871 5.472v-5.472h1.996v3.12c1.223-.132 2.504-1.558 2.938-3.12h2c-.336 1.93-1.727 3.351-2.719 3.937.992.473 2.578 1.715 3.18 3.961h-2.196c-.472-1.504-1.648-2.664-3.203-2.824v2.824Zm0 0'/%3E%3C/svg%3E");}
+  .partners__item-logo_perekrestok{background-position:0px -213px;}
+  .partners__item-logo_rosneft{background-position:5px -242px;}
+  .partners__item-logo_halva{background - position:1px -302px; background:url("/static/pr/cms/halva/halva-logo.png") no-repeat; background-position: 50% 50%;}
+  .partners__item-logo_vtb{background-position:0px -512px;}
+  .partners__item-logo_gorodtroika{background-position:0 -482px; position:relative;}
+  .partners__item-logo_uralairlines{background-position:3px -543px;}
+  .partners__item-logo_gorodtroika:after{content:""; position:absolute; bottom:0; left:0; width:100%; height:2px; background:#F0F0F0;}
+  .partners__item-logo_uralairlines{background-position:3px -543px;}
+  .partners__item-logo_mir{background-position:3px -572px;}
+  .partners__item-logo_magnit{background-position:1px -603px;}
+  .partners__item-logo_ogon{background-position:0px -272px;}
+</style>
+<div class="partners">
+  <div class="partners__title">Партнеры:</div>
+  <ul class="partners__list">
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_aeroflot"
+            onClick="window.open('/aeroflot/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+      <a href="https://www.ozon.ru/" class="partners__item-logo partners__item-logo_ozon" target="_blank"></a>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_mnogoru"
+            onClick="window.open('/loyalty/mnogo/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_s7"
+            onClick="window.open('/s7priority/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_spasibo"
+            onClick="window.open('/loyalty/sberbank-spasibo/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_rostelecom"
+            onClick="window.open('/loyalty/rostelecom/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_vkcombo"
+            onClick="window.open('/vkcombo/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_perekrestok"
+            onClick="window.open('/loyalty/perekrestok/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_rosneft"
+            onClick="window.open('/loyalty/komandacard/ ','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_halva"
+            onClick="window.open('/loyalty/halva/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_vtb"
+            onClick="window.open('/loyalty/vtb24/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_gorodtroika"
+            onClick="window.open('/loyalty/gorodtroika/','_blank'); return false;"></span>
+    </li>
+    <li class="partners__item">
+      <span class="partners__item-logo partners__item-logo_mir"></span>
+    </li>
+    <li class="partners__item">
+			<span class="partners__item-logo partners__item-logo_magnit"
+            onClick="window.open('/magnit/','_blank'); return false;"></span>
+    </li>
+   <li class="partners__item">
+      <a href="https://ogon.ru/?utm_source=litres&utm_medium=partner&utm_campaign=pr_main-act_1m199r-of_ogon-aud_all-geo_russia&utm_content=partners_logo/" class="partners__item-logo partners__item-logo_ogon" target="_blank"></a>
+    </li>
+  </ul>
+</div></div></div><link rel="stylesheet" href="/static/litres/css/popups.css?b78d4f" type="text/css"><script type="text/javascript">
+			requirejs(["GUAjax"], function(GUAjax) {
+				GUJ = new GUAjax({Connections: 2});
+				requirejs(["wrapper.functions", "csrf"], function () {
+					setCookie("HostID", "19", 1, "/");
+					setCookie("headerab", "1", 7, "/")
+				});
+			});
+
+			
+				litres.loadCss("/static/litres/css/payment.css");
+				requirejs(["jquery", "payment"]);
+			
+
+			requirejs(['pubsub'], function (pubsub) {
+				LitresPubSub = Object.create(pubsub);
+			});
+		</script><script src="/static/litres/js/code.js?9ed4e7"></script><script type="text/javascript" src="/static/litres/js/p/read_book_online.js?1ac8ec"></script><script type="text/javascript" src="/static/litres/js/p/biblio_book.js?9ed4e7"></script><script type="text/javascript" src="/static/litres/js/p/module_recenses.js?66edff"></script><script type="text/javascript" src="/static/litres/js/p/module_views.js"></script><script type="text/javascript">
+			function LoadScripts() {
+				
+
+				requirejs(['jquery', 'jquery.migrate', 'i18n', 'alert'], function(jquery) {
+
+					$(function () {
+						
+					});
+				
+
+				requirejs(['overlay', 'header', 'search', 'trash', 'seo', 'csrf'], function() {
+					litres.loadCss("/static/litres/css/search.css");
+					litres.loadCss("/static/litres/css/trash.css");
+
+					/* [101269] Замена отсутствующей обложки на модный блок с переводимым текстом */
+					requirejs(['no-cover'], function(noCover) {
+						setNoImgCovers();
+					});
+
+					window.addEventListener("load", function() {
+						requirejs(['sociallogin'], function(SocialLogins) {
+							window.___gcfg = {
+								lang: 'ru'
+							};
+						});
+						requirejs([
+							"ecommerce",
+							"wrapper.functions",
+							
+							"webpush",
+							
+								"//www.googleadservices.com/pagead/conversion_async.js",
+								
+								"ym",
+								"//top-fwz1.mail.ru/js/code.js","//www.googletagmanager.com/gtag/js?id=AW-962806630"
+						], function() {
+							
+				if (typeof sent_googleadwords === 'undefined' || !sent_googleadwords) {
+					window.google_tag_params = {
+						ecomm_prodid: "",
+						ecomm_pagetype: "other",
+						ecomm_totalvalue: 0
+					};
+				}
+				
+				if (typeof window.google_trackConversion === "function") {
+					window.google_trackConversion({
+					google_conversion_id: 962806630,
+					google_custom_params: window.google_tag_params,
+					google_remarketing_only: true
+					});
+				}
+			
+
+		requirejs(["pubsub", "gtag"], function (pubsub) {
+			try {
+				litres.ecommerceData = {
+					main: [
+					
+					]
+					
+				};
+
+				pubsub.publish("ecommerceDataReady");
+			} catch (e) {
+				console.error(e);
+			}
+		});
+	requirejs(["GTM"]);
+									requirejs(["//statad.ru/tracker.js?d=litres.ru"]);
+								
+		(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*litres_ru/ru/UTF-8/tmsec=litres_total/' + Math.round(Math.random()*1E9);
+	
+								requirejs(["Flocktory"]);
+							
+						});
+					});
+
+					
+		define("VK", ["vk"]);
+		
+				requirejs(["VK"], function() {
+					if (typeof VK !== "undefined") {
+						VK.Retargeting.Init("VK-RTRG-280711-d3F84");
+						VK.Retargeting.Hit();
+					}
+					
+				});
+			
+
+					requirejs(["scrollbar"], function(){
+						$(function () {
+							if ($('#scrollbar_books').length)
+								var scrollbar_books = new scrollbar($('#scrollbar_books')[0],{show:true});
+							if ($('#fast_basket_spl.scrollbar').length)
+								var scrollbar_basket = new scrollbar($('#fast_basket_spl.scrollbar')[0],{show:true});
+						});
+					});
+
+
+					});
+
+					
+								requirejs(['helpdeskeddy'], function(Helpdeskeddy) {
+									window.Helpdeskeddy = new Helpdeskeddy();
+								});
+							
+				});
+
+
+			}
+			
+			setTimeout(LoadScripts, 10);
+		</script><link rel="stylesheet" href="/static/litres/modules/viewed-books-widget/css/widget.css"><div class="ViewedBooksWidget" style="display: block; position: fixed; bottom: 50vh; transform: translateY(50%);" data-isopened="false"><a class="ViewedBooksWidget_Header" href="/pages/my_views/" style="display: none;">Мои просмотры</a><div class="ViewedBooksWidget_Art" style="margin-top: 8px;"><div data-obj="{art_id: '23300851',author_id: '3188675',alt: 'Жесткий SMM. Выжать из соцсетей максимум',author: 'Дэн Кеннеди',type: '0',mem: 'text',drm: '0',price: '499.00',available: '1',can_preorder: '',main_book_id: '',promo_price: '499.00'}" class="ViewedBooksWidget_Art__ImageWrap"><a href="/book/den-kennedi/zhestkiy-smm-vyzhat-iz-socsetey-maksimum-23300851/" class="cover_href cover_30"><img onerror="this.dataset.coverError = 1;" alt="Жесткий SMM. Выжать из соцсетей максимум" height="43" width="30" src="https://cv5.litres.ru/pub/c/cover_37/23300851.jpg" id="cover_art_23300851" class="cover_img"></a></div><div class="ViewedBooksWidget_Art__TextWrap" style="width: 126px; display: none;"><a href="/book/den-kennedi/zhestkiy-smm-vyzhat-iz-socsetey-maksimum-23300851/" class="ViewedBooksWidget_Art__Bookname" style="width: 116px; height: 14px;"><span class="firstString needMath">Жесткий SMM. Выжать из соцсетей максимум</span></a><a href="/author/den-kennedi/" class="ViewedBooksWidget_Art__Author" style="width: 116px;">Дэн Кеннеди</a></div></div><div class="ViewedBooksWidget_Art" style="margin-top: 8px;"><div data-obj="{art_id: '57334685',author_id: '24295690',alt: 'Как создать модный бренд. Все нюансы от игроков fashion-индустрии',author: 'Тоби Мидоус',type: '4',mem: 'text',drm: '0',price: '499.00',available: '1',can_preorder: '',main_book_id: '',promo_price: '499.00'}" class="ViewedBooksWidget_Art__ImageWrap"><a href="/book/tobi-midous/kak-sozdat-modnyy-brend-vse-nuansy-ot-igrokov-fashion-industri-57334685/" class="cover_href cover_30"><img onerror="this.dataset.coverError = 1;" alt="Как создать модный бренд. Все нюансы от игроков fashion-индустрии" height="43" width="30" src="https://cv8.litres.ru/pub/c/cover_37/57334685.jpg" id="cover_art_57334685" class="cover_img"></a></div><div class="ViewedBooksWidget_Art__TextWrap" style="width: 126px; display: none;"><a href="/book/tobi-midous/kak-sozdat-modnyy-brend-vse-nuansy-ot-igrokov-fashion-industri-57334685/" class="ViewedBooksWidget_Art__Bookname" style="width: 116px; height: 14px;"><span class="firstString needMath">Как создать модный бренд. Все нюансы от игроков fashion-индустрии</span></a><a href="/author/tobi-midous/" class="ViewedBooksWidget_Art__Author" style="width: 116px;">Тоби Мидоус</a></div></div><div class="ViewedBooksWidget_Art" style="margin-top: 8px;"><div data-obj="{art_id: '47814782',author_id: '8864150',alt: 'Магия утра для высоких продаж',author: 'Хэл Элрод',type: '0',mem: 'text',drm: '0',price: '449.00',available: '1',can_preorder: '',main_book_id: '',promo_price: '449.00'}" class="ViewedBooksWidget_Art__ImageWrap"><a href="/book/hel-elrod/magiya-utra-dlya-vysokih-prodazh-47814782/" class="cover_href cover_30"><img onerror="this.dataset.coverError = 1;" alt="Магия утра для высоких продаж" height="44" width="30" src="https://cv8.litres.ru/pub/c/cover_37/47814782.jpg" id="cover_art_47814782" class="cover_img"></a></div><div class="ViewedBooksWidget_Art__TextWrap" style="width: 126px; display: none;"><a href="/book/hel-elrod/magiya-utra-dlya-vysokih-prodazh-47814782/" class="ViewedBooksWidget_Art__Bookname" style="width: 116px; height: 14px;"><span class="firstString needMath">Магия утра для высоких продаж</span></a><a href="/author/hel-elrod/" class="ViewedBooksWidget_Art__Author" style="width: 116px;">Хэл Элрод</a></div></div><div class="ViewedBooksWidget_Art" style="margin-top: 8px;"><div data-obj="{art_id: '5019930',author_id: '3188567',alt: 'Драйв: Что на самом деле нас мотивирует',author: 'Дэниел Пинк',type: '0',mem: 'text',drm: '0',price: '399.00',available: '1',can_preorder: '',main_book_id: '',promo_price: '399.00'}" class="ViewedBooksWidget_Art__ImageWrap"><a href="/book/deniel-pink/drayv-chto-na-samom-dele-nas-motiviruet-5019930/" class="cover_href cover_30"><img onerror="this.dataset.coverError = 1;" alt="Драйв: Что на самом деле нас мотивирует" height="45" width="30" src="https://cv3.litres.ru/pub/c/cover_37/5019930.jpg" id="cover_art_5019930" class="cover_img"></a></div><div class="ViewedBooksWidget_Art__TextWrap" style="width: 126px; display: none;"><a href="/book/deniel-pink/drayv-chto-na-samom-dele-nas-motiviruet-5019930/" class="ViewedBooksWidget_Art__Bookname" style="width: 116px; height: 14px;"><span class="firstString needMath">Драйв: Что на самом деле нас мотивирует</span></a><a href="/author/deniel-pink/" class="ViewedBooksWidget_Art__Author" style="width: 116px;">Дэниел Пинк</a></div></div><div class="ViewedBooksWidget_ControlWrap" style="height: 40px;"><div class="ViewedBooksWidget_ControlText" style="display: none;">Свернуть</div><img src="/static/litres/modules/viewed-books-widget/i/arrow-6-8.svg" class="ViewedBooksWidget_ControlIcon" style="transform: rotateZ(180deg);"></div></div><script>
+				// [154882] АБ: Выводим спойлер с недавно просмотренными книгами на всех страницах сайта
+				function ViewedBooksWidget_setTopPosition() {
+					var widgetElement = document.querySelector('.ViewedBooksWidget');
+
+					if (widgetElement) {
+						widgetElement.style.display = 'block';
+
+						var litresHeader = !litres.SSR_Header ? document.getElementById('litres_header') : document.querySelector('.Header-module__wrapper');
+						if (litresHeader) {
+							litresHeaderHeight = litresHeader.offsetHeight;
+						}
+
+						widgetElement.style.top = getPosition() + 'px';
+					}
+
+					function getPosition () {
+						var verticalPosition = 0,
+							windowHeight = window.innerHeight,
+							headerHeight = litresHeaderHeight,
+							widgetHeight = widgetElement.getBoundingClientRect().height;
+
+						verticalPosition = windowHeight/2 - widgetHeight/2; // Учитываем что при развороте шапка наверх будет
+
+						// Не лезем под шапку
+						if (verticalPosition < headerHeight) {
+							return headerHeight + 30;
+						}
+
+						// Не лезем под шапку учитывая разворот
+						if (verticalPosition - 30 < headerHeight) {
+							return headerHeight + 30;
+						}
+
+						return verticalPosition;
+					}
+				}
+
+				function ViewedBooksWidget_init() {
+					if (window.requirejs) {
+						// [154882] АБ: Выводим спойлер с недавно просмотренными книгами на всех страницах сайта
+						requirejs(['ViewedBooksWidget'], function(ViewedBooksWidget) {
+							new ViewedBooksWidget({
+								elem: document.querySelector('.ViewedBooksWidget'),
+								artsWrapNodes: document.querySelectorAll('.ViewedBooksWidget_Art'),
+								artsImagesNodes: document.querySelectorAll('.ViewedBooksWidget_Art__ImageWrap'),
+								artsTextWrapNodes: document.querySelectorAll('.ViewedBooksWidget_Art__TextWrap'),
+								widgetHeaderNode: document.querySelector('.ViewedBooksWidget_Header'),
+								widgetControls: document.querySelector('.ViewedBooksWidget_ControlWrap'),
+								widgetControlsText: document.querySelector('.ViewedBooksWidget_ControlText'),
+								widgetControlsIcon: document.querySelector('.ViewedBooksWidget_ControlIcon'),
+								isOpened: false
+							});
+						});
+					}
+				}
+
+				ViewedBooksWidget_init();
+				//ViewedBooksWidget_setTopPosition();
+			</script><script type="text/javascript">
+		var _gap = [];
+		var GoogleAccount = '';
+		
+				var admail = {
+					productid: '',
+					pagetype: 'other',
+					totalvalue: ''
+				};
+			</script><div id="fb-root"></div><div id="vk_api_transport"></div><div id="tw_init"></div><div id="ma_init"></div><div id="ok_init"></div><div id="hg-overlay"></div><div class="hint-gray" id="hg-pop-tooltip"><a class="close" id="hg-pop_close"></a><div class="hg-content" id="hg-content"></div></div><div class="drop_down_menu" id="drop_down_menu"><ul class="menu_list"></ul></div><div class="hover_book list_book_popup" id="hover_book"></div><div class="cookie-agreement" id="cookie-agreement"><div class="cookie-agreement__content cookie-agreement__content-ru"><div class="cookie-agreement__text-container"><span class="cookie-agreement__text">Мы используем <strong>куки-файлы</strong>, чтобы вы могли быстрее и удобнее пользоваться сайтом.</span> <a target="_blank" href="/static/litres/inc/ru/privacy_policy.html" class="cookie-agreement__redmore">Подробнее</a></div><button class="cookie-agreement__button btn">OK</button></div></div><div id="promo-books-popup" class="promo-books-popup"><div class="promo-books-popup__header"><div class="promo-books-popup__head">Купите 3 книги одновременно и выберите четвёртую в подарок!</div><div class="promo-books-popup__books"></div><div class="promo-books-popup__rules"><a href="/pages/cms/?page=5636" class="promo-books-popup__rules-link">Условия акции</a></div></div><div class="promo-books-popup__content"><div class="promo-books-popup__text"><p>Чтобы воспользоваться акцией, добавьте нужные книги в корзину. Сделать это можно на странице каждой книги, либо в общем списке:</p><ol class="promo-books-popup__text-list"><li class="promo-books-popup__text-list-item">Нажмите на <strong>многоточие</strong><br/>рядом с книгой</li><li class="promo-books-popup__text-list-item">Выберите пункт<br/>&laquo;<strong>Добавить в корзину</strong>&raquo;</li></ol></div><div class="promo-books-popup__picture"></div><div class="promo-books-popup__dont-show"><input type="checkbox" id="promo-books-popup__dont-show-checkbox" class="promo-books-popup__dont-show-checkbox"><label class="promo-books-popup__dont-show-label" for="promo-books-popup__dont-show-checkbox">Больше не показывать это сообщение</label></div></div></div><div id="up-button" class="up-button"></div><noscript><div><img src="https://mc.yandex.ru/watch/2199583" style="position:absolute; left:-9999px;" alt=""></div></noscript><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-280711-d3F84" style="position:fixed; left:-999px;" alt=""></noscript><noscript><img src="https://www.tns-counter.ru/V13a****litres_ru/ru/UTF-8/tmsec=litres_total/" width="1" height="1" alt=""></noscript></body></html>

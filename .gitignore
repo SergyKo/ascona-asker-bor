@@ -1,0 +1,27 @@
+# phpstorm project files
+.idea
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/virtEnv
+
+/alembic/versions
+/alembic/__pycache__
+/migrations/__pycache__
+/handlers/__pycache__
+/keyboards/__pycache__
+
+../alembic/__pycache__/
+../library.db
+../migrations/__pycache__/
+
+../__pycache__/
+
+credentials.json
+token.json
+.env
+library.db
+logs.log
+logs_from_db_script.log
